@@ -1,0 +1,76 @@
+🎯 PORTFOLIO RECOMMENDATION - 2026-02-02
+================================================================================
+
+📊 RECOMMENDED ALLOCATION
+──────────────────────────────────────────────────
+Strategy: Top 50 stocks by composite score
+Position size: 2.0% each (100% portfolio)
+Total stocks: 464
+Coverage: 50 selected (~11% of market)
+
+
+🔝 TOP 20 BUYS
+──────────────────────────────────────────────────
+ 1. ARIJ   | Price: $   50.20 | Momentum:  +1.09% | Vol:  0.03
+ 2. ARKE   | Price: $  433.07 | Momentum:  +1.02% | Vol:  0.03
+ 3. FTNT   | Price: $  369.48 | Momentum:  +0.86% | Vol:  0.02
+ 4. ARKU   | Price: $  192.06 | Momentum:  +0.83% | Vol:  0.02
+ 5. APUH   | Price: $  241.18 | Momentum:  +0.88% | Vol:  0.02
+ 6. ARGO   | Price: $    4.32 | Momentum:  +0.93% | Vol:  0.03
+ 7. FIVN   | Price: $  279.00 | Momentum:  +0.85% | Vol:  0.03
+ 8. APWQ   | Price: $    3.69 | Momentum:  +0.82% | Vol:  0.03
+ 9. ARIV   | Price: $  114.53 | Momentum:  +0.73% | Vol:  0.02
+10. ARFF   | Price: $    9.43 | Momentum:  +0.75% | Vol:  0.02
+11. APUV   | Price: $   32.35 | Momentum:  +0.72% | Vol:  0.02
+12. ARJI   | Price: $  135.52 | Momentum:  +0.66% | Vol:  0.02
+13. APDN   | Price: $   28.16 | Momentum:  +0.68% | Vol:  0.02
+14. PLTR   | Price: $  176.26 | Momentum:  +0.70% | Vol:  0.02
+15. ADBE   | Price: $  144.41 | Momentum:  +0.65% | Vol:  0.02
+16. ARCH   | Price: $    2.71 | Momentum:  +0.74% | Vol:  0.03
+17. APUN   | Price: $  455.91 | Momentum:  +0.72% | Vol:  0.03
+18. ARKP   | Price: $  472.93 | Momentum:  +0.61% | Vol:  0.02
+19. NFLX   | Price: $  395.55 | Momentum:  +0.62% | Vol:  0.02
+20. REIT   | Price: $   39.27 | Momentum:  +0.69% | Vol:  0.03
+
+
+🔻 TOP 20 AVOID
+──────────────────────────────────────────────────
+415. ALTG   | Price: $    3.98 | Momentum:  -0.25% | Vol:  0.03
+416. ARGV   | Price: $  408.69 | Momentum:  -0.36% | Vol:  0.01
+417. ARFA   | Price: $  246.58 | Momentum:  -0.31% | Vol:  0.03
+418. ARHM   | Price: $    5.96 | Momentum:  -0.33% | Vol:  0.02
+419. ARFB   | Price: $   10.35 | Momentum:  -0.38% | Vol:  0.02
+420. ARKJ   | Price: $    3.18 | Momentum:  -0.31% | Vol:  0.03
+421. APUY   | Price: $  326.27 | Momentum:  -0.28% | Vol:  0.03
+422. NIO    | Price: $   36.73 | Momentum:  -0.30% | Vol:  0.03
+423. APSI   | Price: $    3.26 | Momentum:  -0.31% | Vol:  0.02
+424. NVDA   | Price: $  466.84 | Momentum:  -0.35% | Vol:  0.02
+425. ARHS   | Price: $  343.43 | Momentum:  -0.35% | Vol:  0.02
+426. ARJR   | Price: $  127.31 | Momentum:  -0.45% | Vol:  0.01
+427. APVE   | Price: $  333.95 | Momentum:  -0.31% | Vol:  0.03
+428. ARJG   | Price: $   80.38 | Momentum:  -0.37% | Vol:  0.02
+429. ARIZ   | Price: $    3.24 | Momentum:  -0.31% | Vol:  0.03
+430. ARKL   | Price: $  101.24 | Momentum:  -0.36% | Vol:  0.03
+431. ARII   | Price: $   42.71 | Momentum:  -0.44% | Vol:  0.02
+432. ARHT   | Price: $  301.29 | Momentum:  -0.41% | Vol:  0.02
+433. AVTI   | Price: $  327.67 | Momentum:  -0.37% | Vol:  0.02
+434. AXP    | Price: $  141.60 | Momentum:  -0.37% | Vol:  0.03
+
+
+📈 PORTFOLIO METRICS
+──────────────────────────────────────────────────
+Avg Momentum (Top 50): +0.58%
+Avg Volatility (Top 50): 0.02 (annualized)
+Median Quality Score: 0.980
+Avg Composite Score: 0.679
+
+
+🏢 STOCKS BY CATEGORY
+──────────────────────────────────────────────────
+Tech/Software: NVDA, AAPL, MSFT, META, GOOG, ADBE, CRWD, DDOG, NET...
+Finance: JPM, GS, BLK, SCHW, AXP...
+Healthcare: JNJ, PFE, LLY, VRTX...
+Industrial: BA, CAT, MMM, RTX...
+(See full list in database)
+
+

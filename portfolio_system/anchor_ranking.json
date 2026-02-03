@@ -1,0 +1,601 @@
+{
+  "status": "success",
+  "timestamp": "2026-02-03T02:06:05.753041",
+  "strategy": "ANCHOR",
+  "top_20": [
+    {
+      "rank": 1,
+      "ticker": "TLN",
+      "composite_score": 71.46838324455827,
+      "quality_score": 65.52710669773306,
+      "discount_score": 78.72994346845573,
+      "quality_pctl": 94.67554076539102,
+      "discount_pctl": 99.83361064891847,
+      "stabilization_signals": 0,
+      "position_size": 1.5,
+      "components": {
+        "quality": {
+          "quality_score": 65.52710669773306,
+          "trend_consistency": 80.64516129032258,
+          "sharpe_3y": 66.95436867884834,
+          "dd_resilience": 60,
+          "price_stability": 41.6483180465453
+        },
+        "discount": {
+          "discount_score": 78.72994346845573,
+          "pullback": 100.0,
+          "divergence": 80.9627131419818,
+          "reversion": 33.95706073184113,
+          "support": 100.0,
+          "rsi_14": 80.86206893191793,
+          "pullback_pct": -21.86434859748441
+        }
+      }
+    },
+    {
+      "rank": 2,
+      "ticker": "DGICA",
+      "composite_score": 66.33789491323986,
+      "quality_score": 64.95917784979243,
+      "discount_score": 68.02299354634226,
+      "quality_pctl": 93.7603993344426,
+      "discount_pctl": 98.75207986688852,
+      "stabilization_signals": 1,
+      "position_size": 1.5,
+      "components": {
+        "quality": {
+          "quality_score": 64.95917784979243,
+          "trend_consistency": 50.0,
+          "sharpe_3y": 53.91994358729752,
+          "dd_resilience": 80,
+          "price_stability": 91.88796515735451
+        },
+        "discount": {
+          "discount_score": 68.02299354634226,
+          "pullback": 70.0,
+          "divergence": 69.94299813805304,
+          "reversion": 38.148976047315976,
+          "support": 100.0,
+          "rsi_14": 21.466028277708574,
+          "pullback_pct": -10.88305777381559
+        }
+      }
+    },
+    {
+      "rank": 3,
+      "ticker": "URI",
+      "composite_score": 63.872968479164825,
+      "quality_score": 63.168746286185524,
+      "discount_score": 64.73368449280619,
+      "quality_pctl": 90.26622296173045,
+      "discount_pctl": 97.50415973377704,
+      "stabilization_signals": 0,
+      "position_size": 1.5,
+      "components": {
+        "quality": {
+          "quality_score": 63.168746286185524,
+          "trend_consistency": 66.66666666666666,
+          "sharpe_3y": 56.13948288556749,
+          "dd_resilience": 60,
+          "price_stability": 75.51267613676856
+        },
+        "discount": {
+          "discount_score": 64.73368449280619,
+          "pullback": 100.0,
+          "divergence": 52.65179960518424,
+          "reversion": 38.2829383660405,
+          "support": 60.0,
+          "rsi_14": 71.83866058159586,
+          "pullback_pct": -23.166595439515497
+        }
+      }
+    },
+    {
+      "rank": 4,
+      "ticker": "OSIS",
+      "composite_score": 63.5154998970865,
+      "quality_score": 60.47778803348125,
+      "discount_score": 67.22825884149292,
+      "quality_pctl": 81.94675540765391,
+      "discount_pctl": 98.41930116472545,
+      "stabilization_signals": 0,
+      "position_size": 1.0,
+      "components": {
+        "quality": {
+          "quality_score": 60.47778803348125,
+          "trend_consistency": 63.888888888888886,
+          "sharpe_3y": 59.42898439087526,
+          "dd_resilience": 60,
+          "price_stability": 56.54950699701335
+        },
+        "discount": {
+          "discount_score": 67.22825884149292,
+          "pullback": 70.0,
+          "divergence": 64.71065680243223,
+          "reversion": 40.20237856353944,
+          "support": 100.0,
+          "rsi_14": 52.04841187387339,
+          "pullback_pct": -14.332679969999774
+        }
+      }
+    },
+    {
+      "rank": 5,
+      "ticker": "MSFT",
+      "composite_score": 62.675935220968306,
+      "quality_score": 62.961874437408014,
+      "discount_score": 62.32645395643088,
+      "quality_pctl": 89.60066555740433,
+      "discount_pctl": 95.9234608985025,
+      "stabilization_signals": 0,
+      "position_size": 1.0,
+      "components": {
+        "quality": {
+          "quality_score": 62.961874437408014,
+          "trend_consistency": 55.55555555555556,
+          "sharpe_3y": 57.17855644079415,
+          "dd_resilience": 60,
+          "price_stability": 94.27760559002073
+        },
+        "discount": {
+          "discount_score": 62.32645395643088,
+          "pullback": 100.0,
+          "divergence": 57.739487445985546,
+          "reversion": 47.56632837973795,
+          "support": 30.0,
+          "rsi_14": 65.91689804987803,
+          "pullback_pct": -20.472387961037303
+        }
+      }
+    },
+    {
+      "rank": 6,
+      "ticker": "FSS",
+      "composite_score": 61.891850903285345,
+      "quality_score": 60.5077335123143,
+      "discount_score": 63.58354993669438,
+      "quality_pctl": 82.19633943427621,
+      "discount_pctl": 96.58901830282862,
+      "stabilization_signals": 0,
+      "position_size": 1.0,
+      "components": {
+        "quality": {
+          "quality_score": 60.5077335123143,
+          "trend_consistency": 58.333333333333336,
+          "sharpe_3y": 57.7540390677978,
+          "dd_resilience": 60,
+          "price_stability": 71.21014527983313
+        },
+        "discount": {
+          "discount_score": 63.58354993669438,
+          "pullback": 70.0,
+          "divergence": 55.16722734806832,
+          "reversion": 35.16697239870922,
+          "support": 100.0,
+          "rsi_14": 69.06827743929051,
+          "pullback_pct": -16.594017830156787
+        }
+      }
+    },
+    {
+      "rank": 7,
+      "ticker": "CRAI",
+      "composite_score": 61.52752585111114,
+      "quality_score": 60.50089058053105,
+      "discount_score": 62.782302292931256,
+      "quality_pctl": 82.11314475873544,
+      "discount_pctl": 96.25623960066557,
+      "stabilization_signals": 0,
+      "position_size": 1.0,
+      "components": {
+        "quality": {
+          "quality_score": 60.50089058053105,
+          "trend_consistency": 63.888888888888886,
+          "sharpe_3y": 54.91502228638234,
+          "dd_resilience": 60,
+          "price_stability": 65.73144818633124
+        },
+        "discount": {
+          "discount_score": 62.782302292931256,
+          "pullback": 70.0,
+          "divergence": 53.930712492053125,
+          "reversion": 33.19849667967191,
+          "support": 100.0,
+          "rsi_14": 47.937180155814644,
+          "pullback_pct": -15.398736895038349
+        }
+      }
+    },
+    {
+      "rank": 8,
+      "ticker": "FAST",
+      "composite_score": 61.05535634969534,
+      "quality_score": 64.47236613083486,
+      "discount_score": 56.87901106163592,
+      "quality_pctl": 93.09484193011647,
+      "discount_pctl": 93.17803660565723,
+      "stabilization_signals": 0,
+      "position_size": 1.5,
+      "components": {
+        "quality": {
+          "quality_score": 64.47236613083486,
+          "trend_consistency": 61.111111111111114,
+          "sharpe_3y": 58.23484478857551,
+          "dd_resilience": 60,
+          "price_stability": 91.12386240619249
+        },
+        "discount": {
+          "discount_score": 56.87901106163592,
+          "pullback": 70.0,
+          "divergence": 55.06071797192945,
+          "reversion": 8.455326274614238,
+          "support": 100.0,
+          "rsi_14": 70.67423484837815,
+          "pullback_pct": -13.025316212582025
+        }
+      }
+    },
+    {
+      "rank": 9,
+      "ticker": "APH",
+      "composite_score": 60.890004641493,
+      "quality_score": 65.34780796957317,
+      "discount_score": 55.44157835161723,
+      "quality_pctl": 94.2595673876872,
+      "discount_pctl": 91.84692179700498,
+      "stabilization_signals": 0,
+      "position_size": 1.5,
+      "components": {
+        "quality": {
+          "quality_score": 65.34780796957317,
+          "trend_consistency": 72.22222222222221,
+          "sharpe_3y": 64.73754315526725,
+          "dd_resilience": 60,
+          "price_stability": 61.73252237550883
+        },
+        "discount": {
+          "discount_score": 55.44157835161723,
+          "pullback": 70.0,
+          "divergence": 97.99630391757714,
+          "reversion": 15.770009488891795,
+          "support": 30.0,
+          "rsi_14": 71.53931502693223,
+          "pullback_pct": -13.335337244478385
+        }
+      }
+    },
+    {
+      "rank": 10,
+      "ticker": "TEL",
+      "composite_score": 59.202409091622165,
+      "quality_score": 63.590993328961346,
+      "discount_score": 53.838583912652055,
+      "quality_pctl": 91.0981697171381,
+      "discount_pctl": 90.01663893510815,
+      "stabilization_signals": 0,
+      "position_size": 1.5,
+      "components": {
+        "quality": {
+          "quality_score": 63.590993328961346,
+          "trend_consistency": 63.888888888888886,
+          "sharpe_3y": 57.704966487983455,
+          "dd_resilience": 60,
+          "price_stability": 80.75224477266433
+        },
+        "discount": {
+          "discount_score": 53.838583912652055,
+          "pullback": 70.0,
+          "divergence": 76.29889901974488,
+          "reversion": 31.05543663086333,
+          "support": 30.0,
+          "rsi_14": 77.05938641628836,
+          "pullback_pct": -10.530120972169929
+        }
+      }
+    },
+    {
+      "rank": 11,
+      "ticker": "SBRA",
+      "composite_score": 58.46863344262616,
+      "quality_score": 66.66926999493869,
+      "discount_score": 48.445633212021946,
+      "quality_pctl": 96.1730449251248,
+      "discount_pctl": 83.61064891846922,
+      "stabilization_signals": 2,
+      "position_size": 1.5,
+      "components": {
+        "quality": {
+          "quality_score": 66.66926999493869,
+          "trend_consistency": 80.55555555555556,
+          "sharpe_3y": 57.44311404886332,
+          "dd_resilience": 60,
+          "price_stability": 68.46446075742017
+        },
+        "discount": {
+          "discount_score": 48.445633212021946,
+          "pullback": 20.0,
+          "divergence": 60.35107069650708,
+          "reversion": 29.431462151580686,
+          "support": 100.0,
+          "rsi_14": 44.387720034532784,
+          "pullback_pct": -4.875576260959384
+        }
+      }
+    },
+    {
+      "rank": 12,
+      "ticker": "ETN",
+      "composite_score": 58.262740564705666,
+      "quality_score": 62.15413006054557,
+      "discount_score": 53.506597847568,
+      "quality_pctl": 87.35440931780366,
+      "discount_pctl": 89.43427620632279,
+      "stabilization_signals": 2,
+      "position_size": 1.0,
+      "components": {
+        "quality": {
+          "quality_score": 62.15413006054557,
+          "trend_consistency": 61.111111111111114,
+          "sharpe_3y": 58.8100427325465,
+          "dd_resilience": 60,
+          "price_stability": 74.5185593829886
+        },
+        "discount": {
+          "discount_score": 53.506597847568,
+          "pullback": 70.0,
+          "divergence": 49.09331856617879,
+          "reversion": 0.9330728240932146,
+          "support": 100.0,
+          "rsi_14": 82.86245017775128,
+          "pullback_pct": -10.264943418666334
+        }
+      }
+    },
+    {
+      "rank": 13,
+      "ticker": "INVN",
+      "composite_score": 57.79451613732278,
+      "quality_score": 62.79963051414093,
+      "discount_score": 51.6771541212117,
+      "quality_pctl": 89.26788685524126,
+      "discount_pctl": 86.93843594009984,
+      "stabilization_signals": 0,
+      "position_size": 1.0,
+      "components": {
+        "quality": {
+          "quality_score": 62.79963051414093,
+          "trend_consistency": 66.66666666666666,
+          "sharpe_3y": 48.9184797803184,
+          "dd_resilience": 60,
+          "price_stability": 87.4939105336361
+        },
+        "discount": {
+          "discount_score": 51.6771541212117,
+          "pullback": 70.0,
+          "divergence": 0.0,
+          "reversion": 42.708616484846814,
+          "support": 100.0,
+          "rsi_14": 74.61483763925101,
+          "pullback_pct": -10.411818253070157
+        }
+      }
+    },
+    {
+      "rank": 14,
+      "ticker": "WINA",
+      "composite_score": 56.95472986281738,
+      "quality_score": 62.48810764468081,
+      "discount_score": 50.19171257387318,
+      "quality_pctl": 88.26955074875208,
+      "discount_pctl": 85.35773710482529,
+      "stabilization_signals": 1,
+      "position_size": 1.0,
+      "components": {
+        "quality": {
+          "quality_score": 62.48810764468081,
+          "trend_consistency": 66.66666666666666,
+          "sharpe_3y": 56.6375237201771,
+          "dd_resilience": 60,
+          "price_stability": 69.97900352418458
+        },
+        "discount": {
+          "discount_score": 50.19171257387318,
+          "pullback": 70.0,
+          "divergence": 53.588535305690016,
+          "reversion": 15.178314989802708,
+          "support": 60.0,
+          "rsi_14": 42.018972859722275,
+          "pullback_pct": -10.725333055421926
+        }
+      }
+    },
+    {
+      "rank": 15,
+      "ticker": "PMT",
+      "composite_score": 56.46284539326177,
+      "quality_score": 61.13825687661936,
+      "discount_score": 50.74845358026917,
+      "quality_pctl": 84.77537437603993,
+      "discount_pctl": 85.77371048252913,
+      "stabilization_signals": 0,
+      "position_size": 1.0,
+      "components": {
+        "quality": {
+          "quality_score": 61.13825687661936,
+          "trend_consistency": 58.333333333333336,
+          "sharpe_3y": 51.03541046134696,
+          "dd_resilience": 60,
+          "price_stability": 88.8508915881018
+        },
+        "discount": {
+          "discount_score": 50.74845358026917,
+          "pullback": 70.0,
+          "divergence": 54.99570278795968,
+          "reversion": 39.998111533117,
+          "support": 30.0,
+          "rsi_14": 54.347852965541115,
+          "pullback_pct": -14.337439795426162
+        }
+      }
+    },
+    {
+      "rank": 16,
+      "ticker": "MTG",
+      "composite_score": 56.054168424858055,
+      "quality_score": 64.24271172637212,
+      "discount_score": 46.04594883411863,
+      "quality_pctl": 92.42928452579035,
+      "discount_pctl": 80.11647254575706,
+      "stabilization_signals": 2,
+      "position_size": 1.5,
+      "components": {
+        "quality": {
+          "quality_score": 64.24271172637212,
+          "trend_consistency": 63.888888888888886,
+          "sharpe_3y": 59.107298625523605,
+          "dd_resilience": 60,
+          "price_stability": 82.29236981365585
+        },
+        "discount": {
+          "discount_score": 46.04594883411863,
+          "pullback": 20.0,
+          "divergence": 57.409301030236456,
+          "reversion": 22.774494306238083,
+          "support": 100.0,
+          "rsi_14": 64.17912964893907,
+          "pullback_pct": -9.845949343478605
+        }
+      }
+    },
+    {
+      "rank": 17,
+      "ticker": "SIXD",
+      "composite_score": 50.99484964577786,
+      "quality_score": 74.82858694335359,
+      "discount_score": 41.86270653532041,
+      "quality_pctl": 99.33444259567388,
+      "discount_pctl": 70.29950083194676,
+      "stabilization_signals": 0,
+      "position_size": 1.0,
+      "components": {
+        "quality": {
+          "quality_score": 74.82858694335359,
+          "trend_consistency": 78.94736842105263,
+          "sharpe_3y": 55.17845502906701,
+          "dd_resilience": 80,
+          "price_stability": 97.27226605545124
+        },
+        "discount": {
+          "discount_score": 41.86270653532041,
+          "pullback": 20.0,
+          "divergence": 53.472536361715896,
+          "reversion": 9.978289779565763,
+          "support": 100.0,
+          "rsi_14": 68.32244787015105,
+          "pullback_pct": -0.30089360254300973
+        }
+      }
+    },
+    {
+      "rank": 18,
+      "ticker": "CVCO",
+      "composite_score": 50.403421238908805,
+      "quality_score": 57.34150805690289,
+      "discount_score": 69.92543803853202,
+      "quality_pctl": 71.46422628951747,
+      "discount_pctl": 99.25124792013311,
+      "stabilization_signals": 0,
+      "position_size": 0.7,
+      "components": {
+        "quality": {
+          "quality_score": 57.34150805690289,
+          "trend_consistency": 66.66666666666666,
+          "sharpe_3y": 55.90608579423558,
+          "dd_resilience": 30,
+          "price_stability": 87.13121545754814
+        },
+        "discount": {
+          "discount_score": 69.92543803853202,
+          "pullback": 100.0,
+          "divergence": 59.94951293305212,
+          "reversion": 51.75223922107595,
+          "support": 60.0,
+          "rsi_14": 64.61556021247542,
+          "pullback_pct": -29.48578563868406
+        }
+      }
+    },
+    {
+      "rank": 19,
+      "ticker": "HCI",
+      "composite_score": 50.046049071813485,
+      "quality_score": 57.370701518747744,
+      "discount_score": 68.89705667656796,
+      "quality_pctl": 71.71381031613977,
+      "discount_pctl": 98.91846921797006,
+      "stabilization_signals": 2,
+      "position_size": 0.7,
+      "components": {
+        "quality": {
+          "quality_score": 57.370701518747744,
+          "trend_consistency": 72.22222222222221,
+          "sharpe_3y": 60.617213817173386,
+          "dd_resilience": 30,
+          "price_stability": 66.7924713795271
+        },
+        "discount": {
+          "discount_score": 68.89705667656796,
+          "pullback": 100.0,
+          "divergence": 74.16034497633659,
+          "reversion": 33.42788172993523,
+          "support": 60.0,
+          "rsi_14": 65.63625683568526,
+          "pullback_pct": -22.944108563872685
+        }
+      }
+    },
+    {
+      "rank": 20,
+      "ticker": "NRG",
+      "composite_score": 49.555744001313194,
+      "quality_score": 59.45928121926097,
+      "discount_score": 64.98238962455099,
+      "quality_pctl": 77.70382695507487,
+      "discount_pctl": 97.67054908485858,
+      "stabilization_signals": 0,
+      "position_size": 0.7,
+      "components": {
+        "quality": {
+          "quality_score": 59.45928121926097,
+          "trend_consistency": 63.888888888888886,
+          "sharpe_3y": 63.66618347965377,
+          "dd_resilience": 60,
+          "price_stability": 41.285063391321145
+        },
+        "discount": {
+          "discount_score": 64.98238962455099,
+          "pullback": 70.0,
+          "divergence": 75.7462316716146,
+          "reversion": 20.183326826589333,
+          "support": 100.0,
+          "rsi_14": 75.4189911550992,
+          "pullback_pct": -14.273515099896079
+        }
+      }
+    }
+  ],
+  "stats": {
+    "regime": "CONTRARIAN",
+    "timestamp": "2026-02-03T02:06:05.750300",
+    "total_candidates": 1202,
+    "total_ranked": 128,
+    "quality_50th_pctl": 51.8333545467432,
+    "discount_50th_pctl": 34.140826507367,
+    "delisted_filtered": 26
+  },
+  "messages": [
+    "\n\ud83c\udfaf ANCHOR STRATEGY - 2026-02-03\n\n\ud83d\udc8e STRATEGY: Quality at a Discount (Contrarian approach)\n\ud83c\udfaf GOAL: Identify fundamentally strong companies with temporary weakness\n\n\ud83d\udcca TOP 10 SELECTIONS:\n",
+    " 1. TLN    | Score:  71.47 | Quality: 65.5 | Discount: 78.7\n    Stabilization: 0/4 | Position Size: 1.50x | Pullback: -21.9% from 52w high\n 2. DGICA  | Score:  66.34 | Quality: 65.0 | Discount: 68.0\n    Stabilization: 1/4 | Position Size: 1.50x | Pullback: -10.9% from 52w high\n 3. URI    | Score:  63.87 | Quality: 63.2 | Discount: 64.7\n    Stabilization: 0/4 | Position Size: 1.50x | Pullback: -23.2% from 52w high\n 4. OSIS   | Score:  63.52 | Quality: 60.5 | Discount: 67.2\n    Stabilization: 0/4 | Position Size: 1.00x | Pullback: -14.3% from 52w high\n 5. MSFT   | Score:  62.68 | Quality: 63.0 | Discount: 62.3\n    Stabilization: 0/4 | Position Size: 1.00x | Pullback: -20.5% from 52w high\n 6. FSS    | Score:  61.89 | Quality: 60.5 | Discount: 63.6\n    Stabilization: 0/4 | Position Size: 1.00x | Pullback: -16.6% from 52w high\n 7. CRAI   | Score:  61.53 | Quality: 60.5 | Discount: 62.8\n    Stabilization: 0/4 | Position Size: 1.00x | Pullback: -15.4% from 52w high\n 8. FAST   | Score:  61.06 | Quality: 64.5 | Discount: 56.9\n    Stabilization: 0/4 | Position Size: 1.50x | Pullback: -13.0% from 52w high\n 9. APH    | Score:  60.89 | Quality: 65.3 | Discount: 55.4\n    Stabilization: 0/4 | Position Size: 1.50x | Pullback: -13.3% from 52w high\n10. TEL    | Score:  59.20 | Quality: 63.6 | Discount: 53.8\n    Stabilization: 0/4 | Position Size: 1.50x | Pullback: -10.5% from 52w high\n",
+    "\n\ud83d\udcc8 STRATEGY STATS:\n  \u2022 Total candidates screened: 1202\n  \u2022 Passed quality filter (50th+ pctl): ~128\n  \u2022 Top 20 selected (with sector constraints): 20\n  \n\ud83d\udca1 ANCHOR LOGIC:\n  \u2022 Contrarian to momentum (diversification)\n  \u2022 3-year quality assessment vs temporary weakness\n  \u2022 Requires stabilization signals (2+/4) before entry\n  \u2022 Position sizing by conviction level\n  \n\u23f1\ufe0f MANAGEMENT:\n  \u2022 Rescore: Daily\n  \u2022 Hold period: 3-6 months (longer-term)\n  \u2022 Exit: Quality drops, discount closed, or stabilization fails\n\n\u26a0\ufe0f RISK:\n  \u2022 Value trap avoidance: checks structural downtrends\n  \u2022 Momentum divergence required (long-term strength)\n  \u2022 Requires RSI+volume+MA confirmation\n"
+  ]
+}

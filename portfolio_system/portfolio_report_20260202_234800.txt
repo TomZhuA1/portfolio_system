@@ -1,0 +1,76 @@
+🎯 PORTFOLIO RECOMMENDATION - 2026-02-02
+================================================================================
+
+📊 RECOMMENDED ALLOCATION
+──────────────────────────────────────────────────
+Strategy: Top 50 stocks by composite score
+Position size: 2.0% each (100% portfolio)
+Total stocks: 2093
+Coverage: 50 selected (~11% of market)
+
+
+🔝 TOP 20 BUYS
+──────────────────────────────────────────────────
+ 1. AMWD   | Price: $  380.30 | Momentum:  +1.93% | Vol:  0.03
+ 2. GOOG   | Price: $ 2832.35 | Momentum:  +1.74% | Vol:  0.03
+ 3. ITCI   | Price: $   20.58 | Momentum:  +1.38% | Vol:  0.02
+ 4. CHEF   | Price: $  114.46 | Momentum:  +1.34% | Vol:  0.03
+ 5. AXL    | Price: $    7.98 | Momentum:  +1.27% | Vol:  0.03
+ 6. LMNX   | Price: $    4.76 | Momentum:  +1.28% | Vol:  0.03
+ 7. ENTL   | Price: $    3.10 | Momentum:  +1.31% | Vol:  0.03
+ 8. OVAS   | Price: $   10.20 | Momentum:  +1.29% | Vol:  0.03
+ 9. GOOGL  | Price: $ 3093.31 | Momentum:  +1.19% | Vol:  0.02
+10. FFBC   | Price: $    8.59 | Momentum:  +1.18% | Vol:  0.03
+11. SWFT   | Price: $    1.50 | Momentum:  +1.35% | Vol:  0.05
+12. FWM    | Price: $    3.34 | Momentum:  +1.21% | Vol:  0.03
+13. ZIXI   | Price: $  286.58 | Momentum:  +1.09% | Vol:  0.02
+14. BELFB  | Price: $  230.89 | Momentum:  +1.11% | Vol:  0.03
+15. EL     | Price: $    5.28 | Momentum:  +1.15% | Vol:  0.03
+16. PRI    | Price: $  203.31 | Momentum:  +1.07% | Vol:  0.02
+17. DWRE   | Price: $   31.47 | Momentum:  +1.06% | Vol:  0.03
+18. GHM    | Price: $  486.04 | Momentum:  +1.00% | Vol:  0.02
+19. GCAP   | Price: $    3.68 | Momentum:  +1.10% | Vol:  0.04
+20. CDNS   | Price: $   42.36 | Momentum:  +0.91% | Vol:  0.02
+
+
+🔻 TOP 20 AVOID
+──────────────────────────────────────────────────
+2044. STRP   | Price: $  168.27 | Momentum:  -0.71% | Vol:  0.03
+2045. PRTO   | Price: $   24.38 | Momentum:  -0.77% | Vol:  0.02
+2046. ATRC   | Price: $  225.48 | Momentum:  -0.71% | Vol:  0.03
+2047. RENT   | Price: $    4.18 | Momentum:  -0.71% | Vol:  0.03
+2048. ABM    | Price: $   62.95 | Momentum:  -0.69% | Vol:  0.03
+2049. BLMN   | Price: $  222.42 | Momentum:  -0.79% | Vol:  0.02
+2050. SMTC   | Price: $   20.00 | Momentum:  -0.70% | Vol:  0.03
+2051. ALIM   | Price: $   69.37 | Momentum:  -0.76% | Vol:  0.02
+2052. MDXG   | Price: $    3.13 | Momentum:  -0.63% | Vol:  0.04
+2053. HOV    | Price: $   95.34 | Momentum:  -0.73% | Vol:  0.02
+2054. MHO    | Price: $  248.67 | Momentum:  -0.77% | Vol:  0.02
+2055. MED    | Price: $   47.26 | Momentum:  -0.78% | Vol:  0.02
+2056. CPK    | Price: $  209.61 | Momentum:  -0.77% | Vol:  0.02
+2057. CNSL   | Price: $    1.36 | Momentum:  -0.73% | Vol:  0.03
+2058. CLC    | Price: $    4.22 | Momentum:  -0.71% | Vol:  0.03
+2059. QNST   | Price: $    1.55 | Momentum:  -0.64% | Vol:  0.04
+2060. AVB    | Price: $  151.77 | Momentum:  -0.77% | Vol:  0.03
+2061. PCRX   | Price: $   77.39 | Momentum:  -0.83% | Vol:  0.02
+2062. LGND   | Price: $    1.48 | Momentum:  -0.67% | Vol:  0.04
+2063. HIL    | Price: $    1.57 | Momentum:  -0.63% | Vol:  0.04
+
+
+📈 PORTFOLIO METRICS
+──────────────────────────────────────────────────
+Avg Momentum (Top 50): +1.00%
+Avg Volatility (Top 50): 0.03 (annualized)
+Median Quality Score: 0.976
+Avg Composite Score: 0.692
+
+
+🏢 STOCKS BY CATEGORY
+──────────────────────────────────────────────────
+Tech/Software: NVDA, AAPL, MSFT, META, GOOG, ADBE, CRWD, DDOG, NET...
+Finance: JPM, GS, BLK, SCHW, AXP...
+Healthcare: JNJ, PFE, LLY, VRTX...
+Industrial: BA, CAT, MMM, RTX...
+(See full list in database)
+
+

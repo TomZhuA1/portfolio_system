@@ -1,0 +1,139 @@
+{
+  "status": "success",
+  "timestamp": "2026-02-02T23:48:00.649992",
+  "messages": [
+    "\n\ud83c\udfaf PORTFOLIO RECOMMENDATION - 2026-02-02\n\n\ud83d\udcca STRATEGY: Top 50 stocks (2% each)\n\n\ud83d\udd1d TOP 10 BUYS:\n1. AMWD - $380.30 | Mom: +1.9% | Vol: 0.03\n2. GOOG - $2832.35 | Mom: +1.7% | Vol: 0.03\n3. ITCI - $20.58 | Mom: +1.4% | Vol: 0.02\n4. CHEF - $114.46 | Mom: +1.3% | Vol: 0.03\n5. AXL - $7.98 | Mom: +1.3% | Vol: 0.03\n6. LMNX - $4.76 | Mom: +1.3% | Vol: 0.03\n7. ENTL - $3.10 | Mom: +1.3% | Vol: 0.03\n8. OVAS - $10.20 | Mom: +1.3% | Vol: 0.03\n9. GOOGL - $3093.31 | Mom: +1.2% | Vol: 0.02\n10. FFBC - $8.59 | Mom: +1.2% | Vol: 0.03\n",
+    "\n\ud83d\udd3b TOP 10 TO AVOID:\n2044. STRP - $168.27 | Mom: -0.7% | Vol: 0.03\n2045. PRTO - $24.38 | Mom: -0.8% | Vol: 0.02\n2046. ATRC - $225.48 | Mom: -0.7% | Vol: 0.03\n2047. RENT - $4.18 | Mom: -0.7% | Vol: 0.03\n2048. ABM - $62.95 | Mom: -0.7% | Vol: 0.03\n2049. BLMN - $222.42 | Mom: -0.8% | Vol: 0.02\n2050. SMTC - $20.00 | Mom: -0.7% | Vol: 0.03\n2051. ALIM - $69.37 | Mom: -0.8% | Vol: 0.02\n2052. MDXG - $3.13 | Mom: -0.6% | Vol: 0.04\n2053. HOV - $95.34 | Mom: -0.7% | Vol: 0.02\n\n\ud83d\udcc8 METRICS:\n  \u2022 Avg Momentum (Top 50): +1.00%\n  \u2022 Avg Volatility: 0.03\n  \u2022 Median Quality: 0.976\n  \u2022 Total Stocks: 2093\n",
+    "\ud83d\udccb FULL TOP 20 BUYS:\n 1. AMWD   | $  380.30 | Composite: 0.722\n 2. GOOG   | $ 2832.35 | Composite: 0.715\n 3. ITCI   | $   20.58 | Composite: 0.705\n 4. CHEF   | $  114.46 | Composite: 0.702\n 5. AXL    | $    7.98 | Composite: 0.701\n 6. LMNX   | $    4.76 | Composite: 0.701\n 7. ENTL   | $    3.10 | Composite: 0.701\n 8. OVAS   | $   10.20 | Composite: 0.700\n 9. GOOGL  | $ 3093.31 | Composite: 0.699\n10. FFBC   | $    8.59 | Composite: 0.697\n11. SWFT   | $    1.50 | Composite: 0.696\n12. FWM    | $    3.34 | Composite: 0.696\n13. ZIXI   | $  286.58 | Composite: 0.696\n14. BELFB  | $  230.89 | Composite: 0.695\n15. EL     | $    5.28 | Composite: 0.695\n16. PRI    | $  203.31 | Composite: 0.694\n17. DWRE   | $   31.47 | Composite: 0.693\n18. GHM    | $  486.04 | Composite: 0.692\n19. GCAP   | $    3.68 | Composite: 0.692\n20. CDNS   | $   42.36 | Composite: 0.690\n"
+  ],
+  "top_10": [
+    {
+      "ticker": "AMWD",
+      "current_price": 380.3,
+      "momentum_pct": 1.93,
+      "composite_score": 0.722
+    },
+    {
+      "ticker": "GOOG",
+      "current_price": 2832.35,
+      "momentum_pct": 1.74,
+      "composite_score": 0.715
+    },
+    {
+      "ticker": "ITCI",
+      "current_price": 20.58,
+      "momentum_pct": 1.38,
+      "composite_score": 0.705
+    },
+    {
+      "ticker": "CHEF",
+      "current_price": 114.46,
+      "momentum_pct": 1.34,
+      "composite_score": 0.702
+    },
+    {
+      "ticker": "AXL",
+      "current_price": 7.98,
+      "momentum_pct": 1.27,
+      "composite_score": 0.701
+    },
+    {
+      "ticker": "LMNX",
+      "current_price": 4.76,
+      "momentum_pct": 1.28,
+      "composite_score": 0.701
+    },
+    {
+      "ticker": "ENTL",
+      "current_price": 3.1,
+      "momentum_pct": 1.31,
+      "composite_score": 0.701
+    },
+    {
+      "ticker": "OVAS",
+      "current_price": 10.2,
+      "momentum_pct": 1.29,
+      "composite_score": 0.7
+    },
+    {
+      "ticker": "GOOGL",
+      "current_price": 3093.31,
+      "momentum_pct": 1.19,
+      "composite_score": 0.699
+    },
+    {
+      "ticker": "FFBC",
+      "current_price": 8.59,
+      "momentum_pct": 1.18,
+      "composite_score": 0.697
+    }
+  ],
+  "bottom_10": [
+    {
+      "ticker": "STRP",
+      "current_price": 168.27,
+      "momentum_pct": -0.71,
+      "composite_score": 0.301
+    },
+    {
+      "ticker": "PRTO",
+      "current_price": 24.38,
+      "momentum_pct": -0.77,
+      "composite_score": 0.301
+    },
+    {
+      "ticker": "ATRC",
+      "current_price": 225.48,
+      "momentum_pct": -0.71,
+      "composite_score": 0.301
+    },
+    {
+      "ticker": "RENT",
+      "current_price": 4.18,
+      "momentum_pct": -0.71,
+      "composite_score": 0.301
+    },
+    {
+      "ticker": "ABM",
+      "current_price": 62.95,
+      "momentum_pct": -0.69,
+      "composite_score": 0.301
+    },
+    {
+      "ticker": "BLMN",
+      "current_price": 222.42,
+      "momentum_pct": -0.79,
+      "composite_score": 0.301
+    },
+    {
+      "ticker": "SMTC",
+      "current_price": 20.0,
+      "momentum_pct": -0.7,
+      "composite_score": 0.301
+    },
+    {
+      "ticker": "ALIM",
+      "current_price": 69.37,
+      "momentum_pct": -0.76,
+      "composite_score": 0.301
+    },
+    {
+      "ticker": "MDXG",
+      "current_price": 3.13,
+      "momentum_pct": -0.63,
+      "composite_score": 0.301
+    },
+    {
+      "ticker": "HOV",
+      "current_price": 95.34,
+      "momentum_pct": -0.73,
+      "composite_score": 0.301
+    }
+  ],
+  "stats": {
+    "total_stocks": 2093,
+    "selected": 50,
+    "avg_momentum": 1.0002,
+    "avg_volatility": 0.025600000000000005
+  }
+}

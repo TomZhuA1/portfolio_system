@@ -1,0 +1,1325 @@
+{
+  "status": "success",
+  "timestamp": "2026-02-03T02:06:05.777399",
+  "surge": {
+    "top_30": [
+      {
+        "rank": 1,
+        "ticker": "JNJ",
+        "composite_score": 72.6396605454976,
+        "components": {
+          "momentum": 74.51573899819657,
+          "trend": 95.127265053627,
+          "volatility": 68.8641537177762,
+          "volume": 51.535278927177636,
+          "relative_strength": 50,
+          "oversold": 0.0
+        },
+        "metrics": {
+          "current_price": 227.25,
+          "return_63d": 20.969510161018885,
+          "volatility": 16.624338029329106,
+          "rsi_14": 61.85865466815438,
+          "distance_from_50d_ma": 8.253846236407929,
+          "high_52w": 227.72000122070312,
+          "low_52w": 143.14964294433594
+        }
+      },
+      {
+        "rank": 2,
+        "ticker": "XOM",
+        "composite_score": 72.36205316988863,
+        "components": {
+          "momentum": 72.91121184487494,
+          "trend": 96.99271665542257,
+          "volatility": 64.89126826303912,
+          "volume": 55.081711999751164,
+          "relative_strength": 50,
+          "oversold": 0.0
+        },
+        "metrics": {
+          "current_price": 141.39999389648438,
+          "return_63d": 24.367211942529153,
+          "volatility": 21.87349248280552,
+          "rsi_14": 62.64250592940311,
+          "distance_from_50d_ma": 15.394466106139529,
+          "high_52w": 141.39999389648438,
+          "low_52w": 97.25447845458984
+        }
+      },
+      {
+        "rank": 3,
+        "ticker": "AIR",
+        "composite_score": 72.31700697897729,
+        "components": {
+          "momentum": 74.75612104307558,
+          "trend": 93.19038453262792,
+          "volatility": 58.81074361389045,
+          "volume": 65.53617206746365,
+          "relative_strength": 50,
+          "oversold": 0.0
+        },
+        "metrics": {
+          "current_price": 105.91000366210938,
+          "return_63d": 25.753980203071254,
+          "volatility": 31.49584190858059,
+          "rsi_14": 93.15068580641906,
+          "distance_from_50d_ma": 18.43789043820691,
+          "high_52w": 107.73999786376953,
+          "low_52w": 48.560001373291016
+        }
+      },
+      {
+        "rank": 4,
+        "ticker": "PNC",
+        "composite_score": 71.25610586548403,
+        "components": {
+          "momentum": 65.9658201293102,
+          "trend": 96.24790021624014,
+          "volatility": 66.82010664716476,
+          "volume": 60.26908962131991,
+          "relative_strength": 50,
+          "oversold": 0.0
+        },
+        "metrics": {
+          "current_price": 223.3000030517578,
+          "return_63d": 23.41704961665645,
+          "volatility": 19.640481809218365,
+          "rsi_14": 57.93538036236707,
+          "distance_from_50d_ma": 7.83904096915405,
+          "high_52w": 225.49000549316406,
+          "low_52w": 144.49595642089844
+        }
+      },
+      {
+        "rank": 5,
+        "ticker": "PLXS",
+        "composite_score": 70.52581843356316,
+        "components": {
+          "momentum": 72.56474420385337,
+          "trend": 90.5751907825409,
+          "volatility": 54.1981544521136,
+          "volume": 68.4864439089947,
+          "relative_strength": 50,
+          "oversold": 0.0
+        },
+        "metrics": {
+          "current_price": 199.3300018310547,
+          "return_63d": 41.28863002834038,
+          "volatility": 41.98022586889482,
+          "rsi_14": 85.47678127108772,
+          "distance_from_50d_ma": 25.852677696009764,
+          "high_52w": 199.3300018310547,
+          "low_52w": 110.94999694824219
+        }
+      },
+      {
+        "rank": 6,
+        "ticker": "PKE",
+        "composite_score": 70.51216774828697,
+        "components": {
+          "momentum": 63.94585071044309,
+          "trend": 99.89658517961591,
+          "volatility": 54.04060227802124,
+          "volume": 70.30763856430548,
+          "relative_strength": 50,
+          "oversold": 0.0
+        },
+        "metrics": {
+          "current_price": 24.489999771118164,
+          "return_63d": 29.72246666215393,
+          "volatility": 38.13808899418993,
+          "rsi_14": 52.45093412238186,
+          "distance_from_50d_ma": 13.40585448939025,
+          "high_52w": 25.850000381469727,
+          "low_52w": 11.961784362792969
+        }
+      },
+      {
+        "rank": 7,
+        "ticker": "SB",
+        "composite_score": 70.4020567652642,
+        "components": {
+          "momentum": 72.94049259899285,
+          "trend": 96.73779249481377,
+          "volatility": 55.62355067460642,
+          "volume": 54.73833817961079,
+          "relative_strength": 50,
+          "oversold": 0.0
+        },
+        "metrics": {
+          "current_price": 5.710000038146973,
+          "return_63d": 23.32613168491178,
+          "volatility": 32.725363400043406,
+          "rsi_14": 47.74192960511734,
+          "distance_from_50d_ma": 12.207200850158454,
+          "high_52w": 5.710000038146973,
+          "low_52w": 2.9744815826416016
+        }
+      },
+      {
+        "rank": 8,
+        "ticker": "PATK",
+        "composite_score": 70.34473848288242,
+        "components": {
+          "momentum": 68.2113186264494,
+          "trend": 95.90012111048988,
+          "volatility": 60.61340917688713,
+          "volume": 58.557538546318,
+          "relative_strength": 50,
+          "oversold": 0.0
+        },
+        "metrics": {
+          "current_price": 126.16999816894531,
+          "return_63d": 25.677220961238028,
+          "volatility": 28.356233261011845,
+          "rsi_14": 92.63974158241258,
+          "distance_from_50d_ma": 10.293150250240707,
+          "high_52w": 133.02000427246094,
+          "low_52w": 73.40943145751953
+        }
+      },
+      {
+        "rank": 9,
+        "ticker": "MNST",
+        "composite_score": 70.22911308036602,
+        "components": {
+          "momentum": 65.51975665469159,
+          "trend": 96.78646383272795,
+          "volatility": 64.71358405975099,
+          "volume": 56.225688758842374,
+          "relative_strength": 50,
+          "oversold": 0.0
+        },
+        "metrics": {
+          "current_price": 80.76000213623047,
+          "return_63d": 21.315911831842048,
+          "volatility": 21.295731885816938,
+          "rsi_14": 13.893129059668269,
+          "distance_from_50d_ma": 5.632700264975308,
+          "high_52w": 82.0,
+          "low_52w": 46.15999984741211
+        }
+      },
+      {
+        "rank": 10,
+        "ticker": "UCTT",
+        "composite_score": 70.19041979447105,
+        "components": {
+          "momentum": 74.65290895760248,
+          "trend": 95.90768954401773,
+          "volatility": 43.08990030093888,
+          "volume": 67.99763107332069,
+          "relative_strength": 50,
+          "oversold": 0.0
+        },
+        "metrics": {
+          "current_price": 43.68000030517578,
+          "return_63d": 62.198291162962796,
+          "volatility": 62.614114708055766,
+          "rsi_14": 78.50466673317626,
+          "distance_from_50d_ma": 40.353584417229214,
+          "high_52w": 47.4900016784668,
+          "low_52w": 17.84000015258789
+        }
+      },
+      {
+        "rank": 11,
+        "ticker": "FITB",
+        "composite_score": 70.14632937372193,
+        "components": {
+          "momentum": 61.76521784878736,
+          "trend": 91.5658413718807,
+          "volatility": 61.70512976477535,
+          "volume": 75.89518482106983,
+          "relative_strength": 50,
+          "oversold": 0.0
+        },
+        "metrics": {
+          "current_price": 50.220001220703125,
+          "return_63d": 20.729984695159096,
+          "volatility": 24.928433167118378,
+          "rsi_14": 58.876398404590404,
+          "distance_from_50d_ma": 6.725710168089699,
+          "high_52w": 52.86000061035156,
+          "low_52w": 32.45658493041992
+        }
+      },
+      {
+        "rank": 12,
+        "ticker": "INFO",
+        "composite_score": 70.07713147973195,
+        "components": {
+          "momentum": 55.12285783775442,
+          "trend": 82.6911960131425,
+          "volatility": 64.33737562559996,
+          "volume": 100,
+          "relative_strength": 50,
+          "oversold": 0.0
+        },
+        "metrics": {
+          "current_price": 24.889999389648438,
+          "return_63d": 2.2445728498167994,
+          "volatility": 12.634579113756342,
+          "rsi_14": 77.37555186862012,
+          "distance_from_50d_ma": 1.6059862463809704,
+          "high_52w": 25.048999786376953,
+          "low_52w": 17.1760311126709
+        }
+      },
+      {
+        "rank": 13,
+        "ticker": "PFG",
+        "composite_score": 70.06817915452618,
+        "components": {
+          "momentum": 63.32545858332062,
+          "trend": 98.80327795825377,
+          "volatility": 63.29639976659003,
+          "volume": 58.06961424432362,
+          "relative_strength": 50,
+          "oversold": 0.0
+        },
+        "metrics": {
+          "current_price": 94.72000122070312,
+          "return_63d": 15.561806485722714,
+          "volatility": 20.984498678704114,
+          "rsi_14": 86.14269374649999,
+          "distance_from_50d_ma": 6.770175321530912,
+          "high_52w": 94.76000213623047,
+          "low_52w": 67.57211303710938
+        }
+      },
+      {
+        "rank": 14,
+        "ticker": "GRC",
+        "composite_score": 69.99305311018973,
+        "components": {
+          "momentum": 67.22027973935566,
+          "trend": 95.1968951517499,
+          "volatility": 61.22260777301575,
+          "volume": 58.554825638949424,
+          "relative_strength": 50,
+          "oversold": 0.0
+        },
+        "metrics": {
+          "current_price": 54.4900016784668,
+          "return_63d": 22.192035881663465,
+          "volatility": 26.602090262769153,
+          "rsi_14": 67.25360052475926,
+          "distance_from_50d_ma": 10.842151330148383,
+          "high_52w": 54.650001525878906,
+          "low_52w": 30.943572998046875
+        }
+      },
+      {
+        "rank": 15,
+        "ticker": "DCO",
+        "composite_score": 69.88761774455095,
+        "components": {
+          "momentum": 69.9702498904104,
+          "trend": 90.72380570263377,
+          "volatility": 57.067775714200465,
+          "volume": 65.34690805952863,
+          "relative_strength": 50,
+          "oversold": 0.0
+        },
+        "metrics": {
+          "current_price": 113.3499984741211,
+          "return_63d": 23.286921322804538,
+          "volatility": 32.60434138099284,
+          "rsi_14": 87.50487403548465,
+          "distance_from_50d_ma": 14.551645161953203,
+          "high_52w": 115.2300033569336,
+          "low_52w": 53.5
+        }
+      },
+      {
+        "rank": 16,
+        "ticker": "AME",
+        "composite_score": 69.76915087996458,
+        "components": {
+          "momentum": 66.25071281578471,
+          "trend": 96.34498931671058,
+          "volatility": 65.71030426279889,
+          "volume": 51.104192356611655,
+          "relative_strength": 50,
+          "oversold": 0.0
+        },
+        "metrics": {
+          "current_price": 223.97999572753906,
+          "return_63d": 13.114689544694732,
+          "volatility": 17.163935114158644,
+          "rsi_14": 70.02002090952574,
+          "distance_from_50d_ma": 8.473589184381462,
+          "high_52w": 226.6199951171875,
+          "low_52w": 150.66769409179688
+        }
+      },
+      {
+        "rank": 17,
+        "ticker": "BEN",
+        "composite_score": 69.70884348199478,
+        "components": {
+          "momentum": 64.69242454249722,
+          "trend": 98.68317412726265,
+          "volatility": 61.15686730471309,
+          "volume": 55.99299417658217,
+          "relative_strength": 50,
+          "oversold": 0.0
+        },
+        "metrics": {
+          "current_price": 26.6200008392334,
+          "return_63d": 18.512354615555164,
+          "volatility": 24.829025157217867,
+          "rsi_14": 53.731337280795685,
+          "distance_from_50d_ma": 11.43048118447512,
+          "high_52w": 26.6200008392334,
+          "low_52w": 15.988548278808594
+        }
+      },
+      {
+        "rank": 18,
+        "ticker": "PCAR",
+        "composite_score": 69.68371952432118,
+        "components": {
+          "momentum": 67.99536222149143,
+          "trend": 93.85645328766535,
+          "volatility": 62.05628239047716,
+          "volume": 56.064940385746546,
+          "relative_strength": 50,
+          "oversold": 0.0
+        },
+        "metrics": {
+          "current_price": 122.91000366210938,
+          "return_63d": 26.384705609067282,
+          "volatility": 26.404804826596795,
+          "rsi_14": 69.70274554430293,
+          "distance_from_50d_ma": 9.546124191166557,
+          "high_52w": 123.55999755859375,
+          "low_52w": 84.4586410522461
+        }
+      },
+      {
+        "rank": 19,
+        "ticker": "PLOW",
+        "composite_score": 69.6825834160366,
+        "components": {
+          "momentum": 71.90159687918415,
+          "trend": 87.31080809795276,
+          "volatility": 62.19401864303559,
+          "volume": 58.97065732790706,
+          "relative_strength": 50,
+          "oversold": 0.0
+        },
+        "metrics": {
+          "current_price": 37.68000030517578,
+          "return_63d": 23.696576286405016,
+          "volatility": 25.68966836466072,
+          "rsi_14": 90.37124248678072,
+          "distance_from_50d_ma": 10.996175149493247,
+          "high_52w": 37.880001068115234,
+          "low_52w": 21.177318572998047
+        }
+      },
+      {
+        "rank": 20,
+        "ticker": "NPK",
+        "composite_score": 69.60700092313783,
+        "components": {
+          "momentum": 72.50163004181724,
+          "trend": 94.38315977902325,
+          "volatility": 57.320042007152125,
+          "volume": 51.97809042937616,
+          "relative_strength": 50,
+          "oversold": 0.0
+        },
+        "metrics": {
+          "current_price": 127.4000015258789,
+          "return_63d": 20.723967591737093,
+          "volatility": 31.215572697204497,
+          "rsi_14": 53.00467052769957,
+          "distance_from_50d_ma": 18.087173927704935,
+          "high_52w": 127.4000015258789,
+          "low_52w": 81.05999755859375
+        }
+      }
+    ],
+    "regime": "NORMAL"
+  },
+  "anchor": {
+    "top_20": [
+      {
+        "rank": 1,
+        "ticker": "TLN",
+        "composite_score": 71.46838324455827,
+        "quality_score": 65.52710669773306,
+        "discount_score": 78.72994346845573,
+        "quality_pctl": 94.67554076539102,
+        "discount_pctl": 99.83361064891847,
+        "stabilization_signals": 0,
+        "position_size": 1.5,
+        "components": {
+          "quality": {
+            "quality_score": 65.52710669773306,
+            "trend_consistency": 80.64516129032258,
+            "sharpe_3y": 66.95436867884834,
+            "dd_resilience": 60,
+            "price_stability": 41.6483180465453
+          },
+          "discount": {
+            "discount_score": 78.72994346845573,
+            "pullback": 100.0,
+            "divergence": 80.9627131419818,
+            "reversion": 33.95706073184113,
+            "support": 100.0,
+            "rsi_14": 80.86206893191793,
+            "pullback_pct": -21.86434859748441
+          }
+        }
+      },
+      {
+        "rank": 2,
+        "ticker": "DGICA",
+        "composite_score": 66.33789491323986,
+        "quality_score": 64.95917784979243,
+        "discount_score": 68.02299354634226,
+        "quality_pctl": 93.7603993344426,
+        "discount_pctl": 98.75207986688852,
+        "stabilization_signals": 1,
+        "position_size": 1.5,
+        "components": {
+          "quality": {
+            "quality_score": 64.95917784979243,
+            "trend_consistency": 50.0,
+            "sharpe_3y": 53.91994358729752,
+            "dd_resilience": 80,
+            "price_stability": 91.88796515735451
+          },
+          "discount": {
+            "discount_score": 68.02299354634226,
+            "pullback": 70.0,
+            "divergence": 69.94299813805304,
+            "reversion": 38.148976047315976,
+            "support": 100.0,
+            "rsi_14": 21.466028277708574,
+            "pullback_pct": -10.88305777381559
+          }
+        }
+      },
+      {
+        "rank": 3,
+        "ticker": "URI",
+        "composite_score": 63.872968479164825,
+        "quality_score": 63.168746286185524,
+        "discount_score": 64.73368449280619,
+        "quality_pctl": 90.26622296173045,
+        "discount_pctl": 97.50415973377704,
+        "stabilization_signals": 0,
+        "position_size": 1.5,
+        "components": {
+          "quality": {
+            "quality_score": 63.168746286185524,
+            "trend_consistency": 66.66666666666666,
+            "sharpe_3y": 56.13948288556749,
+            "dd_resilience": 60,
+            "price_stability": 75.51267613676856
+          },
+          "discount": {
+            "discount_score": 64.73368449280619,
+            "pullback": 100.0,
+            "divergence": 52.65179960518424,
+            "reversion": 38.2829383660405,
+            "support": 60.0,
+            "rsi_14": 71.83866058159586,
+            "pullback_pct": -23.166595439515497
+          }
+        }
+      },
+      {
+        "rank": 4,
+        "ticker": "OSIS",
+        "composite_score": 63.5154998970865,
+        "quality_score": 60.47778803348125,
+        "discount_score": 67.22825884149292,
+        "quality_pctl": 81.94675540765391,
+        "discount_pctl": 98.41930116472545,
+        "stabilization_signals": 0,
+        "position_size": 1.0,
+        "components": {
+          "quality": {
+            "quality_score": 60.47778803348125,
+            "trend_consistency": 63.888888888888886,
+            "sharpe_3y": 59.42898439087526,
+            "dd_resilience": 60,
+            "price_stability": 56.54950699701335
+          },
+          "discount": {
+            "discount_score": 67.22825884149292,
+            "pullback": 70.0,
+            "divergence": 64.71065680243223,
+            "reversion": 40.20237856353944,
+            "support": 100.0,
+            "rsi_14": 52.04841187387339,
+            "pullback_pct": -14.332679969999774
+          }
+        }
+      },
+      {
+        "rank": 5,
+        "ticker": "MSFT",
+        "composite_score": 62.675935220968306,
+        "quality_score": 62.961874437408014,
+        "discount_score": 62.32645395643088,
+        "quality_pctl": 89.60066555740433,
+        "discount_pctl": 95.9234608985025,
+        "stabilization_signals": 0,
+        "position_size": 1.0,
+        "components": {
+          "quality": {
+            "quality_score": 62.961874437408014,
+            "trend_consistency": 55.55555555555556,
+            "sharpe_3y": 57.17855644079415,
+            "dd_resilience": 60,
+            "price_stability": 94.27760559002073
+          },
+          "discount": {
+            "discount_score": 62.32645395643088,
+            "pullback": 100.0,
+            "divergence": 57.739487445985546,
+            "reversion": 47.56632837973795,
+            "support": 30.0,
+            "rsi_14": 65.91689804987803,
+            "pullback_pct": -20.472387961037303
+          }
+        }
+      },
+      {
+        "rank": 6,
+        "ticker": "FSS",
+        "composite_score": 61.891850903285345,
+        "quality_score": 60.5077335123143,
+        "discount_score": 63.58354993669438,
+        "quality_pctl": 82.19633943427621,
+        "discount_pctl": 96.58901830282862,
+        "stabilization_signals": 0,
+        "position_size": 1.0,
+        "components": {
+          "quality": {
+            "quality_score": 60.5077335123143,
+            "trend_consistency": 58.333333333333336,
+            "sharpe_3y": 57.7540390677978,
+            "dd_resilience": 60,
+            "price_stability": 71.21014527983313
+          },
+          "discount": {
+            "discount_score": 63.58354993669438,
+            "pullback": 70.0,
+            "divergence": 55.16722734806832,
+            "reversion": 35.16697239870922,
+            "support": 100.0,
+            "rsi_14": 69.06827743929051,
+            "pullback_pct": -16.594017830156787
+          }
+        }
+      },
+      {
+        "rank": 7,
+        "ticker": "CRAI",
+        "composite_score": 61.52752585111114,
+        "quality_score": 60.50089058053105,
+        "discount_score": 62.782302292931256,
+        "quality_pctl": 82.11314475873544,
+        "discount_pctl": 96.25623960066557,
+        "stabilization_signals": 0,
+        "position_size": 1.0,
+        "components": {
+          "quality": {
+            "quality_score": 60.50089058053105,
+            "trend_consistency": 63.888888888888886,
+            "sharpe_3y": 54.91502228638234,
+            "dd_resilience": 60,
+            "price_stability": 65.73144818633124
+          },
+          "discount": {
+            "discount_score": 62.782302292931256,
+            "pullback": 70.0,
+            "divergence": 53.930712492053125,
+            "reversion": 33.19849667967191,
+            "support": 100.0,
+            "rsi_14": 47.937180155814644,
+            "pullback_pct": -15.398736895038349
+          }
+        }
+      },
+      {
+        "rank": 8,
+        "ticker": "FAST",
+        "composite_score": 61.05535634969534,
+        "quality_score": 64.47236613083486,
+        "discount_score": 56.87901106163592,
+        "quality_pctl": 93.09484193011647,
+        "discount_pctl": 93.17803660565723,
+        "stabilization_signals": 0,
+        "position_size": 1.5,
+        "components": {
+          "quality": {
+            "quality_score": 64.47236613083486,
+            "trend_consistency": 61.111111111111114,
+            "sharpe_3y": 58.23484478857551,
+            "dd_resilience": 60,
+            "price_stability": 91.12386240619249
+          },
+          "discount": {
+            "discount_score": 56.87901106163592,
+            "pullback": 70.0,
+            "divergence": 55.06071797192945,
+            "reversion": 8.455326274614238,
+            "support": 100.0,
+            "rsi_14": 70.67423484837815,
+            "pullback_pct": -13.025316212582025
+          }
+        }
+      },
+      {
+        "rank": 9,
+        "ticker": "APH",
+        "composite_score": 60.890004641493,
+        "quality_score": 65.34780796957317,
+        "discount_score": 55.44157835161723,
+        "quality_pctl": 94.2595673876872,
+        "discount_pctl": 91.84692179700498,
+        "stabilization_signals": 0,
+        "position_size": 1.5,
+        "components": {
+          "quality": {
+            "quality_score": 65.34780796957317,
+            "trend_consistency": 72.22222222222221,
+            "sharpe_3y": 64.73754315526725,
+            "dd_resilience": 60,
+            "price_stability": 61.73252237550883
+          },
+          "discount": {
+            "discount_score": 55.44157835161723,
+            "pullback": 70.0,
+            "divergence": 97.99630391757714,
+            "reversion": 15.770009488891795,
+            "support": 30.0,
+            "rsi_14": 71.53931502693223,
+            "pullback_pct": -13.335337244478385
+          }
+        }
+      },
+      {
+        "rank": 10,
+        "ticker": "TEL",
+        "composite_score": 59.202409091622165,
+        "quality_score": 63.590993328961346,
+        "discount_score": 53.838583912652055,
+        "quality_pctl": 91.0981697171381,
+        "discount_pctl": 90.01663893510815,
+        "stabilization_signals": 0,
+        "position_size": 1.5,
+        "components": {
+          "quality": {
+            "quality_score": 63.590993328961346,
+            "trend_consistency": 63.888888888888886,
+            "sharpe_3y": 57.704966487983455,
+            "dd_resilience": 60,
+            "price_stability": 80.75224477266433
+          },
+          "discount": {
+            "discount_score": 53.838583912652055,
+            "pullback": 70.0,
+            "divergence": 76.29889901974488,
+            "reversion": 31.05543663086333,
+            "support": 30.0,
+            "rsi_14": 77.05938641628836,
+            "pullback_pct": -10.530120972169929
+          }
+        }
+      },
+      {
+        "rank": 11,
+        "ticker": "SBRA",
+        "composite_score": 58.46863344262616,
+        "quality_score": 66.66926999493869,
+        "discount_score": 48.445633212021946,
+        "quality_pctl": 96.1730449251248,
+        "discount_pctl": 83.61064891846922,
+        "stabilization_signals": 2,
+        "position_size": 1.5,
+        "components": {
+          "quality": {
+            "quality_score": 66.66926999493869,
+            "trend_consistency": 80.55555555555556,
+            "sharpe_3y": 57.44311404886332,
+            "dd_resilience": 60,
+            "price_stability": 68.46446075742017
+          },
+          "discount": {
+            "discount_score": 48.445633212021946,
+            "pullback": 20.0,
+            "divergence": 60.35107069650708,
+            "reversion": 29.431462151580686,
+            "support": 100.0,
+            "rsi_14": 44.387720034532784,
+            "pullback_pct": -4.875576260959384
+          }
+        }
+      },
+      {
+        "rank": 12,
+        "ticker": "ETN",
+        "composite_score": 58.262740564705666,
+        "quality_score": 62.15413006054557,
+        "discount_score": 53.506597847568,
+        "quality_pctl": 87.35440931780366,
+        "discount_pctl": 89.43427620632279,
+        "stabilization_signals": 2,
+        "position_size": 1.0,
+        "components": {
+          "quality": {
+            "quality_score": 62.15413006054557,
+            "trend_consistency": 61.111111111111114,
+            "sharpe_3y": 58.8100427325465,
+            "dd_resilience": 60,
+            "price_stability": 74.5185593829886
+          },
+          "discount": {
+            "discount_score": 53.506597847568,
+            "pullback": 70.0,
+            "divergence": 49.09331856617879,
+            "reversion": 0.9330728240932146,
+            "support": 100.0,
+            "rsi_14": 82.86245017775128,
+            "pullback_pct": -10.264943418666334
+          }
+        }
+      },
+      {
+        "rank": 13,
+        "ticker": "INVN",
+        "composite_score": 57.79451613732278,
+        "quality_score": 62.79963051414093,
+        "discount_score": 51.6771541212117,
+        "quality_pctl": 89.26788685524126,
+        "discount_pctl": 86.93843594009984,
+        "stabilization_signals": 0,
+        "position_size": 1.0,
+        "components": {
+          "quality": {
+            "quality_score": 62.79963051414093,
+            "trend_consistency": 66.66666666666666,
+            "sharpe_3y": 48.9184797803184,
+            "dd_resilience": 60,
+            "price_stability": 87.4939105336361
+          },
+          "discount": {
+            "discount_score": 51.6771541212117,
+            "pullback": 70.0,
+            "divergence": 0.0,
+            "reversion": 42.708616484846814,
+            "support": 100.0,
+            "rsi_14": 74.61483763925101,
+            "pullback_pct": -10.411818253070157
+          }
+        }
+      },
+      {
+        "rank": 14,
+        "ticker": "WINA",
+        "composite_score": 56.95472986281738,
+        "quality_score": 62.48810764468081,
+        "discount_score": 50.19171257387318,
+        "quality_pctl": 88.26955074875208,
+        "discount_pctl": 85.35773710482529,
+        "stabilization_signals": 1,
+        "position_size": 1.0,
+        "components": {
+          "quality": {
+            "quality_score": 62.48810764468081,
+            "trend_consistency": 66.66666666666666,
+            "sharpe_3y": 56.6375237201771,
+            "dd_resilience": 60,
+            "price_stability": 69.97900352418458
+          },
+          "discount": {
+            "discount_score": 50.19171257387318,
+            "pullback": 70.0,
+            "divergence": 53.588535305690016,
+            "reversion": 15.178314989802708,
+            "support": 60.0,
+            "rsi_14": 42.018972859722275,
+            "pullback_pct": -10.725333055421926
+          }
+        }
+      },
+      {
+        "rank": 15,
+        "ticker": "PMT",
+        "composite_score": 56.46284539326177,
+        "quality_score": 61.13825687661936,
+        "discount_score": 50.74845358026917,
+        "quality_pctl": 84.77537437603993,
+        "discount_pctl": 85.77371048252913,
+        "stabilization_signals": 0,
+        "position_size": 1.0,
+        "components": {
+          "quality": {
+            "quality_score": 61.13825687661936,
+            "trend_consistency": 58.333333333333336,
+            "sharpe_3y": 51.03541046134696,
+            "dd_resilience": 60,
+            "price_stability": 88.8508915881018
+          },
+          "discount": {
+            "discount_score": 50.74845358026917,
+            "pullback": 70.0,
+            "divergence": 54.99570278795968,
+            "reversion": 39.998111533117,
+            "support": 30.0,
+            "rsi_14": 54.347852965541115,
+            "pullback_pct": -14.337439795426162
+          }
+        }
+      },
+      {
+        "rank": 16,
+        "ticker": "MTG",
+        "composite_score": 56.054168424858055,
+        "quality_score": 64.24271172637212,
+        "discount_score": 46.04594883411863,
+        "quality_pctl": 92.42928452579035,
+        "discount_pctl": 80.11647254575706,
+        "stabilization_signals": 2,
+        "position_size": 1.5,
+        "components": {
+          "quality": {
+            "quality_score": 64.24271172637212,
+            "trend_consistency": 63.888888888888886,
+            "sharpe_3y": 59.107298625523605,
+            "dd_resilience": 60,
+            "price_stability": 82.29236981365585
+          },
+          "discount": {
+            "discount_score": 46.04594883411863,
+            "pullback": 20.0,
+            "divergence": 57.409301030236456,
+            "reversion": 22.774494306238083,
+            "support": 100.0,
+            "rsi_14": 64.17912964893907,
+            "pullback_pct": -9.845949343478605
+          }
+        }
+      },
+      {
+        "rank": 17,
+        "ticker": "SIXD",
+        "composite_score": 50.99484964577786,
+        "quality_score": 74.82858694335359,
+        "discount_score": 41.86270653532041,
+        "quality_pctl": 99.33444259567388,
+        "discount_pctl": 70.29950083194676,
+        "stabilization_signals": 0,
+        "position_size": 1.0,
+        "components": {
+          "quality": {
+            "quality_score": 74.82858694335359,
+            "trend_consistency": 78.94736842105263,
+            "sharpe_3y": 55.17845502906701,
+            "dd_resilience": 80,
+            "price_stability": 97.27226605545124
+          },
+          "discount": {
+            "discount_score": 41.86270653532041,
+            "pullback": 20.0,
+            "divergence": 53.472536361715896,
+            "reversion": 9.978289779565763,
+            "support": 100.0,
+            "rsi_14": 68.32244787015105,
+            "pullback_pct": -0.30089360254300973
+          }
+        }
+      },
+      {
+        "rank": 18,
+        "ticker": "CVCO",
+        "composite_score": 50.403421238908805,
+        "quality_score": 57.34150805690289,
+        "discount_score": 69.92543803853202,
+        "quality_pctl": 71.46422628951747,
+        "discount_pctl": 99.25124792013311,
+        "stabilization_signals": 0,
+        "position_size": 0.7,
+        "components": {
+          "quality": {
+            "quality_score": 57.34150805690289,
+            "trend_consistency": 66.66666666666666,
+            "sharpe_3y": 55.90608579423558,
+            "dd_resilience": 30,
+            "price_stability": 87.13121545754814
+          },
+          "discount": {
+            "discount_score": 69.92543803853202,
+            "pullback": 100.0,
+            "divergence": 59.94951293305212,
+            "reversion": 51.75223922107595,
+            "support": 60.0,
+            "rsi_14": 64.61556021247542,
+            "pullback_pct": -29.48578563868406
+          }
+        }
+      },
+      {
+        "rank": 19,
+        "ticker": "HCI",
+        "composite_score": 50.046049071813485,
+        "quality_score": 57.370701518747744,
+        "discount_score": 68.89705667656796,
+        "quality_pctl": 71.71381031613977,
+        "discount_pctl": 98.91846921797006,
+        "stabilization_signals": 2,
+        "position_size": 0.7,
+        "components": {
+          "quality": {
+            "quality_score": 57.370701518747744,
+            "trend_consistency": 72.22222222222221,
+            "sharpe_3y": 60.617213817173386,
+            "dd_resilience": 30,
+            "price_stability": 66.7924713795271
+          },
+          "discount": {
+            "discount_score": 68.89705667656796,
+            "pullback": 100.0,
+            "divergence": 74.16034497633659,
+            "reversion": 33.42788172993523,
+            "support": 60.0,
+            "rsi_14": 65.63625683568526,
+            "pullback_pct": -22.944108563872685
+          }
+        }
+      },
+      {
+        "rank": 20,
+        "ticker": "NRG",
+        "composite_score": 49.555744001313194,
+        "quality_score": 59.45928121926097,
+        "discount_score": 64.98238962455099,
+        "quality_pctl": 77.70382695507487,
+        "discount_pctl": 97.67054908485858,
+        "stabilization_signals": 0,
+        "position_size": 0.7,
+        "components": {
+          "quality": {
+            "quality_score": 59.45928121926097,
+            "trend_consistency": 63.888888888888886,
+            "sharpe_3y": 63.66618347965377,
+            "dd_resilience": 60,
+            "price_stability": 41.285063391321145
+          },
+          "discount": {
+            "discount_score": 64.98238962455099,
+            "pullback": 70.0,
+            "divergence": 75.7462316716146,
+            "reversion": 20.183326826589333,
+            "support": 100.0,
+            "rsi_14": 75.4189911550992,
+            "pullback_pct": -14.273515099896079
+          }
+        }
+      }
+    ]
+  },
+  "correlation": {
+    "surge_tickers": [
+      "AIR",
+      "AME",
+      "BEN",
+      "DCO",
+      "FITB",
+      "GRC",
+      "INFO",
+      "JNJ",
+      "MNST",
+      "NPK",
+      "PATK",
+      "PCAR",
+      "PFG",
+      "PKE",
+      "PLOW",
+      "PLXS",
+      "PNC",
+      "SB",
+      "UCTT",
+      "XOM"
+    ],
+    "anchor_tickers": [
+      "APH",
+      "CRAI",
+      "CVCO",
+      "DGICA",
+      "ETN",
+      "FAST",
+      "FSS",
+      "HCI",
+      "INVN",
+      "MSFT",
+      "MTG",
+      "NRG",
+      "OSIS",
+      "PMT",
+      "SBRA",
+      "SIXD",
+      "TEL",
+      "TLN",
+      "URI",
+      "WINA"
+    ],
+    "overlap": [],
+    "overlap_count": 0,
+    "overlap_pct": 0.0,
+    "status": "GOOD"
+  },
+  "combined_portfolio": [
+    {
+      "rank": 1,
+      "ticker": "JNJ",
+      "strategy": "SURGE",
+      "strategy_rank": 1,
+      "score": 72.6396605454976,
+      "allocation_pct": 2.0
+    },
+    {
+      "rank": 2,
+      "ticker": "XOM",
+      "strategy": "SURGE",
+      "strategy_rank": 2,
+      "score": 72.36205316988863,
+      "allocation_pct": 2.0
+    },
+    {
+      "rank": 3,
+      "ticker": "AIR",
+      "strategy": "SURGE",
+      "strategy_rank": 3,
+      "score": 72.31700697897729,
+      "allocation_pct": 2.0
+    },
+    {
+      "rank": 4,
+      "ticker": "PNC",
+      "strategy": "SURGE",
+      "strategy_rank": 4,
+      "score": 71.25610586548403,
+      "allocation_pct": 2.0
+    },
+    {
+      "rank": 5,
+      "ticker": "PLXS",
+      "strategy": "SURGE",
+      "strategy_rank": 5,
+      "score": 70.52581843356316,
+      "allocation_pct": 2.0
+    },
+    {
+      "rank": 6,
+      "ticker": "PKE",
+      "strategy": "SURGE",
+      "strategy_rank": 6,
+      "score": 70.51216774828697,
+      "allocation_pct": 2.0
+    },
+    {
+      "rank": 7,
+      "ticker": "SB",
+      "strategy": "SURGE",
+      "strategy_rank": 7,
+      "score": 70.4020567652642,
+      "allocation_pct": 2.0
+    },
+    {
+      "rank": 8,
+      "ticker": "PATK",
+      "strategy": "SURGE",
+      "strategy_rank": 8,
+      "score": 70.34473848288242,
+      "allocation_pct": 2.0
+    },
+    {
+      "rank": 9,
+      "ticker": "MNST",
+      "strategy": "SURGE",
+      "strategy_rank": 9,
+      "score": 70.22911308036602,
+      "allocation_pct": 2.0
+    },
+    {
+      "rank": 10,
+      "ticker": "UCTT",
+      "strategy": "SURGE",
+      "strategy_rank": 10,
+      "score": 70.19041979447105,
+      "allocation_pct": 2.0
+    },
+    {
+      "rank": 11,
+      "ticker": "FITB",
+      "strategy": "SURGE",
+      "strategy_rank": 11,
+      "score": 70.14632937372193,
+      "allocation_pct": 2.0
+    },
+    {
+      "rank": 12,
+      "ticker": "INFO",
+      "strategy": "SURGE",
+      "strategy_rank": 12,
+      "score": 70.07713147973195,
+      "allocation_pct": 2.0
+    },
+    {
+      "rank": 13,
+      "ticker": "PFG",
+      "strategy": "SURGE",
+      "strategy_rank": 13,
+      "score": 70.06817915452618,
+      "allocation_pct": 2.0
+    },
+    {
+      "rank": 14,
+      "ticker": "GRC",
+      "strategy": "SURGE",
+      "strategy_rank": 14,
+      "score": 69.99305311018973,
+      "allocation_pct": 2.0
+    },
+    {
+      "rank": 15,
+      "ticker": "DCO",
+      "strategy": "SURGE",
+      "strategy_rank": 15,
+      "score": 69.88761774455095,
+      "allocation_pct": 2.0
+    },
+    {
+      "rank": 16,
+      "ticker": "TLN",
+      "strategy": "ANCHOR",
+      "strategy_rank": 1,
+      "score": 71.46838324455827,
+      "allocation_pct": 2.0
+    },
+    {
+      "rank": 17,
+      "ticker": "DGICA",
+      "strategy": "ANCHOR",
+      "strategy_rank": 2,
+      "score": 66.33789491323986,
+      "allocation_pct": 2.0
+    },
+    {
+      "rank": 18,
+      "ticker": "URI",
+      "strategy": "ANCHOR",
+      "strategy_rank": 3,
+      "score": 63.872968479164825,
+      "allocation_pct": 2.0
+    },
+    {
+      "rank": 19,
+      "ticker": "OSIS",
+      "strategy": "ANCHOR",
+      "strategy_rank": 4,
+      "score": 63.5154998970865,
+      "allocation_pct": 2.0
+    },
+    {
+      "rank": 20,
+      "ticker": "MSFT",
+      "strategy": "ANCHOR",
+      "strategy_rank": 5,
+      "score": 62.675935220968306,
+      "allocation_pct": 2.0
+    },
+    {
+      "rank": 21,
+      "ticker": "FSS",
+      "strategy": "ANCHOR",
+      "strategy_rank": 6,
+      "score": 61.891850903285345,
+      "allocation_pct": 2.0
+    },
+    {
+      "rank": 22,
+      "ticker": "CRAI",
+      "strategy": "ANCHOR",
+      "strategy_rank": 7,
+      "score": 61.52752585111114,
+      "allocation_pct": 2.0
+    },
+    {
+      "rank": 23,
+      "ticker": "FAST",
+      "strategy": "ANCHOR",
+      "strategy_rank": 8,
+      "score": 61.05535634969534,
+      "allocation_pct": 2.0
+    },
+    {
+      "rank": 24,
+      "ticker": "APH",
+      "strategy": "ANCHOR",
+      "strategy_rank": 9,
+      "score": 60.890004641493,
+      "allocation_pct": 2.0
+    },
+    {
+      "rank": 25,
+      "ticker": "TEL",
+      "strategy": "ANCHOR",
+      "strategy_rank": 10,
+      "score": 59.202409091622165,
+      "allocation_pct": 2.0
+    },
+    {
+      "rank": 26,
+      "ticker": "SBRA",
+      "strategy": "ANCHOR",
+      "strategy_rank": 11,
+      "score": 58.46863344262616,
+      "allocation_pct": 2.0
+    },
+    {
+      "rank": 27,
+      "ticker": "ETN",
+      "strategy": "ANCHOR",
+      "strategy_rank": 12,
+      "score": 58.262740564705666,
+      "allocation_pct": 2.0
+    },
+    {
+      "rank": 28,
+      "ticker": "INVN",
+      "strategy": "ANCHOR",
+      "strategy_rank": 13,
+      "score": 57.79451613732278,
+      "allocation_pct": 2.0
+    },
+    {
+      "rank": 29,
+      "ticker": "WINA",
+      "strategy": "ANCHOR",
+      "strategy_rank": 14,
+      "score": 56.95472986281738,
+      "allocation_pct": 2.0
+    },
+    {
+      "rank": 30,
+      "ticker": "PMT",
+      "strategy": "ANCHOR",
+      "strategy_rank": 15,
+      "score": 56.46284539326177,
+      "allocation_pct": 2.0
+    }
+  ]
+}

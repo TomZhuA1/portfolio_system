@@ -1,0 +1,690 @@
+{
+  "status": "success",
+  "timestamp": "2026-02-03T02:05:56.201555",
+  "regime": "NORMAL",
+  "top_30": [
+    {
+      "rank": 1,
+      "ticker": "JNJ",
+      "composite_score": 72.6396605454976,
+      "components": {
+        "momentum": 74.51573899819657,
+        "trend": 95.127265053627,
+        "volatility": 68.8641537177762,
+        "volume": 51.535278927177636,
+        "relative_strength": 50,
+        "oversold": 0.0
+      },
+      "metrics": {
+        "current_price": 227.25,
+        "return_63d": 20.969510161018885,
+        "volatility": 16.624338029329106,
+        "rsi_14": 61.85865466815438,
+        "distance_from_50d_ma": 8.253846236407929,
+        "high_52w": 227.72000122070312,
+        "low_52w": 143.14964294433594
+      }
+    },
+    {
+      "rank": 2,
+      "ticker": "XOM",
+      "composite_score": 72.36205316988863,
+      "components": {
+        "momentum": 72.91121184487494,
+        "trend": 96.99271665542257,
+        "volatility": 64.89126826303912,
+        "volume": 55.081711999751164,
+        "relative_strength": 50,
+        "oversold": 0.0
+      },
+      "metrics": {
+        "current_price": 141.39999389648438,
+        "return_63d": 24.367211942529153,
+        "volatility": 21.87349248280552,
+        "rsi_14": 62.64250592940311,
+        "distance_from_50d_ma": 15.394466106139529,
+        "high_52w": 141.39999389648438,
+        "low_52w": 97.25447845458984
+      }
+    },
+    {
+      "rank": 3,
+      "ticker": "AIR",
+      "composite_score": 72.31700697897729,
+      "components": {
+        "momentum": 74.75612104307558,
+        "trend": 93.19038453262792,
+        "volatility": 58.81074361389045,
+        "volume": 65.53617206746365,
+        "relative_strength": 50,
+        "oversold": 0.0
+      },
+      "metrics": {
+        "current_price": 105.91000366210938,
+        "return_63d": 25.753980203071254,
+        "volatility": 31.49584190858059,
+        "rsi_14": 93.15068580641906,
+        "distance_from_50d_ma": 18.43789043820691,
+        "high_52w": 107.73999786376953,
+        "low_52w": 48.560001373291016
+      }
+    },
+    {
+      "rank": 4,
+      "ticker": "PNC",
+      "composite_score": 71.25610586548403,
+      "components": {
+        "momentum": 65.9658201293102,
+        "trend": 96.24790021624014,
+        "volatility": 66.82010664716476,
+        "volume": 60.26908962131991,
+        "relative_strength": 50,
+        "oversold": 0.0
+      },
+      "metrics": {
+        "current_price": 223.3000030517578,
+        "return_63d": 23.41704961665645,
+        "volatility": 19.640481809218365,
+        "rsi_14": 57.93538036236707,
+        "distance_from_50d_ma": 7.83904096915405,
+        "high_52w": 225.49000549316406,
+        "low_52w": 144.49595642089844
+      }
+    },
+    {
+      "rank": 5,
+      "ticker": "PLXS",
+      "composite_score": 70.52581843356316,
+      "components": {
+        "momentum": 72.56474420385337,
+        "trend": 90.5751907825409,
+        "volatility": 54.1981544521136,
+        "volume": 68.4864439089947,
+        "relative_strength": 50,
+        "oversold": 0.0
+      },
+      "metrics": {
+        "current_price": 199.3300018310547,
+        "return_63d": 41.28863002834038,
+        "volatility": 41.98022586889482,
+        "rsi_14": 85.47678127108772,
+        "distance_from_50d_ma": 25.852677696009764,
+        "high_52w": 199.3300018310547,
+        "low_52w": 110.94999694824219
+      }
+    },
+    {
+      "rank": 6,
+      "ticker": "PKE",
+      "composite_score": 70.51216774828697,
+      "components": {
+        "momentum": 63.94585071044309,
+        "trend": 99.89658517961591,
+        "volatility": 54.04060227802124,
+        "volume": 70.30763856430548,
+        "relative_strength": 50,
+        "oversold": 0.0
+      },
+      "metrics": {
+        "current_price": 24.489999771118164,
+        "return_63d": 29.72246666215393,
+        "volatility": 38.13808899418993,
+        "rsi_14": 52.45093412238186,
+        "distance_from_50d_ma": 13.40585448939025,
+        "high_52w": 25.850000381469727,
+        "low_52w": 11.961784362792969
+      }
+    },
+    {
+      "rank": 7,
+      "ticker": "SB",
+      "composite_score": 70.4020567652642,
+      "components": {
+        "momentum": 72.94049259899285,
+        "trend": 96.73779249481377,
+        "volatility": 55.62355067460642,
+        "volume": 54.73833817961079,
+        "relative_strength": 50,
+        "oversold": 0.0
+      },
+      "metrics": {
+        "current_price": 5.710000038146973,
+        "return_63d": 23.32613168491178,
+        "volatility": 32.725363400043406,
+        "rsi_14": 47.74192960511734,
+        "distance_from_50d_ma": 12.207200850158454,
+        "high_52w": 5.710000038146973,
+        "low_52w": 2.9744815826416016
+      }
+    },
+    {
+      "rank": 8,
+      "ticker": "PATK",
+      "composite_score": 70.34473848288242,
+      "components": {
+        "momentum": 68.2113186264494,
+        "trend": 95.90012111048988,
+        "volatility": 60.61340917688713,
+        "volume": 58.557538546318,
+        "relative_strength": 50,
+        "oversold": 0.0
+      },
+      "metrics": {
+        "current_price": 126.16999816894531,
+        "return_63d": 25.677220961238028,
+        "volatility": 28.356233261011845,
+        "rsi_14": 92.63974158241258,
+        "distance_from_50d_ma": 10.293150250240707,
+        "high_52w": 133.02000427246094,
+        "low_52w": 73.40943145751953
+      }
+    },
+    {
+      "rank": 9,
+      "ticker": "MNST",
+      "composite_score": 70.22911308036602,
+      "components": {
+        "momentum": 65.51975665469159,
+        "trend": 96.78646383272795,
+        "volatility": 64.71358405975099,
+        "volume": 56.225688758842374,
+        "relative_strength": 50,
+        "oversold": 0.0
+      },
+      "metrics": {
+        "current_price": 80.76000213623047,
+        "return_63d": 21.315911831842048,
+        "volatility": 21.295731885816938,
+        "rsi_14": 13.893129059668269,
+        "distance_from_50d_ma": 5.632700264975308,
+        "high_52w": 82.0,
+        "low_52w": 46.15999984741211
+      }
+    },
+    {
+      "rank": 10,
+      "ticker": "UCTT",
+      "composite_score": 70.19041979447105,
+      "components": {
+        "momentum": 74.65290895760248,
+        "trend": 95.90768954401773,
+        "volatility": 43.08990030093888,
+        "volume": 67.99763107332069,
+        "relative_strength": 50,
+        "oversold": 0.0
+      },
+      "metrics": {
+        "current_price": 43.68000030517578,
+        "return_63d": 62.198291162962796,
+        "volatility": 62.614114708055766,
+        "rsi_14": 78.50466673317626,
+        "distance_from_50d_ma": 40.353584417229214,
+        "high_52w": 47.4900016784668,
+        "low_52w": 17.84000015258789
+      }
+    },
+    {
+      "rank": 11,
+      "ticker": "FITB",
+      "composite_score": 70.14632937372193,
+      "components": {
+        "momentum": 61.76521784878736,
+        "trend": 91.5658413718807,
+        "volatility": 61.70512976477535,
+        "volume": 75.89518482106983,
+        "relative_strength": 50,
+        "oversold": 0.0
+      },
+      "metrics": {
+        "current_price": 50.220001220703125,
+        "return_63d": 20.729984695159096,
+        "volatility": 24.928433167118378,
+        "rsi_14": 58.876398404590404,
+        "distance_from_50d_ma": 6.725710168089699,
+        "high_52w": 52.86000061035156,
+        "low_52w": 32.45658493041992
+      }
+    },
+    {
+      "rank": 12,
+      "ticker": "INFO",
+      "composite_score": 70.07713147973195,
+      "components": {
+        "momentum": 55.12285783775442,
+        "trend": 82.6911960131425,
+        "volatility": 64.33737562559996,
+        "volume": 100,
+        "relative_strength": 50,
+        "oversold": 0.0
+      },
+      "metrics": {
+        "current_price": 24.889999389648438,
+        "return_63d": 2.2445728498167994,
+        "volatility": 12.634579113756342,
+        "rsi_14": 77.37555186862012,
+        "distance_from_50d_ma": 1.6059862463809704,
+        "high_52w": 25.048999786376953,
+        "low_52w": 17.1760311126709
+      }
+    },
+    {
+      "rank": 13,
+      "ticker": "PFG",
+      "composite_score": 70.06817915452618,
+      "components": {
+        "momentum": 63.32545858332062,
+        "trend": 98.80327795825377,
+        "volatility": 63.29639976659003,
+        "volume": 58.06961424432362,
+        "relative_strength": 50,
+        "oversold": 0.0
+      },
+      "metrics": {
+        "current_price": 94.72000122070312,
+        "return_63d": 15.561806485722714,
+        "volatility": 20.984498678704114,
+        "rsi_14": 86.14269374649999,
+        "distance_from_50d_ma": 6.770175321530912,
+        "high_52w": 94.76000213623047,
+        "low_52w": 67.57211303710938
+      }
+    },
+    {
+      "rank": 14,
+      "ticker": "GRC",
+      "composite_score": 69.99305311018973,
+      "components": {
+        "momentum": 67.22027973935566,
+        "trend": 95.1968951517499,
+        "volatility": 61.22260777301575,
+        "volume": 58.554825638949424,
+        "relative_strength": 50,
+        "oversold": 0.0
+      },
+      "metrics": {
+        "current_price": 54.4900016784668,
+        "return_63d": 22.192035881663465,
+        "volatility": 26.602090262769153,
+        "rsi_14": 67.25360052475926,
+        "distance_from_50d_ma": 10.842151330148383,
+        "high_52w": 54.650001525878906,
+        "low_52w": 30.943572998046875
+      }
+    },
+    {
+      "rank": 15,
+      "ticker": "DCO",
+      "composite_score": 69.88761774455095,
+      "components": {
+        "momentum": 69.9702498904104,
+        "trend": 90.72380570263377,
+        "volatility": 57.067775714200465,
+        "volume": 65.34690805952863,
+        "relative_strength": 50,
+        "oversold": 0.0
+      },
+      "metrics": {
+        "current_price": 113.3499984741211,
+        "return_63d": 23.286921322804538,
+        "volatility": 32.60434138099284,
+        "rsi_14": 87.50487403548465,
+        "distance_from_50d_ma": 14.551645161953203,
+        "high_52w": 115.2300033569336,
+        "low_52w": 53.5
+      }
+    },
+    {
+      "rank": 16,
+      "ticker": "AME",
+      "composite_score": 69.76915087996458,
+      "components": {
+        "momentum": 66.25071281578471,
+        "trend": 96.34498931671058,
+        "volatility": 65.71030426279889,
+        "volume": 51.104192356611655,
+        "relative_strength": 50,
+        "oversold": 0.0
+      },
+      "metrics": {
+        "current_price": 223.97999572753906,
+        "return_63d": 13.114689544694732,
+        "volatility": 17.163935114158644,
+        "rsi_14": 70.02002090952574,
+        "distance_from_50d_ma": 8.473589184381462,
+        "high_52w": 226.6199951171875,
+        "low_52w": 150.66769409179688
+      }
+    },
+    {
+      "rank": 17,
+      "ticker": "BEN",
+      "composite_score": 69.70884348199478,
+      "components": {
+        "momentum": 64.69242454249722,
+        "trend": 98.68317412726265,
+        "volatility": 61.15686730471309,
+        "volume": 55.99299417658217,
+        "relative_strength": 50,
+        "oversold": 0.0
+      },
+      "metrics": {
+        "current_price": 26.6200008392334,
+        "return_63d": 18.512354615555164,
+        "volatility": 24.829025157217867,
+        "rsi_14": 53.731337280795685,
+        "distance_from_50d_ma": 11.43048118447512,
+        "high_52w": 26.6200008392334,
+        "low_52w": 15.988548278808594
+      }
+    },
+    {
+      "rank": 18,
+      "ticker": "PCAR",
+      "composite_score": 69.68371952432118,
+      "components": {
+        "momentum": 67.99536222149143,
+        "trend": 93.85645328766535,
+        "volatility": 62.05628239047716,
+        "volume": 56.064940385746546,
+        "relative_strength": 50,
+        "oversold": 0.0
+      },
+      "metrics": {
+        "current_price": 122.91000366210938,
+        "return_63d": 26.384705609067282,
+        "volatility": 26.404804826596795,
+        "rsi_14": 69.70274554430293,
+        "distance_from_50d_ma": 9.546124191166557,
+        "high_52w": 123.55999755859375,
+        "low_52w": 84.4586410522461
+      }
+    },
+    {
+      "rank": 19,
+      "ticker": "PLOW",
+      "composite_score": 69.6825834160366,
+      "components": {
+        "momentum": 71.90159687918415,
+        "trend": 87.31080809795276,
+        "volatility": 62.19401864303559,
+        "volume": 58.97065732790706,
+        "relative_strength": 50,
+        "oversold": 0.0
+      },
+      "metrics": {
+        "current_price": 37.68000030517578,
+        "return_63d": 23.696576286405016,
+        "volatility": 25.68966836466072,
+        "rsi_14": 90.37124248678072,
+        "distance_from_50d_ma": 10.996175149493247,
+        "high_52w": 37.880001068115234,
+        "low_52w": 21.177318572998047
+      }
+    },
+    {
+      "rank": 20,
+      "ticker": "NPK",
+      "composite_score": 69.60700092313783,
+      "components": {
+        "momentum": 72.50163004181724,
+        "trend": 94.38315977902325,
+        "volatility": 57.320042007152125,
+        "volume": 51.97809042937616,
+        "relative_strength": 50,
+        "oversold": 0.0
+      },
+      "metrics": {
+        "current_price": 127.4000015258789,
+        "return_63d": 20.723967591737093,
+        "volatility": 31.215572697204497,
+        "rsi_14": 53.00467052769957,
+        "distance_from_50d_ma": 18.087173927704935,
+        "high_52w": 127.4000015258789,
+        "low_52w": 81.05999755859375
+      }
+    },
+    {
+      "rank": 21,
+      "ticker": "RF",
+      "composite_score": 69.53607186918774,
+      "components": {
+        "momentum": 60.386840518457234,
+        "trend": 99.87495684542714,
+        "volatility": 63.06507176791177,
+        "volume": 58.92177432474289,
+        "relative_strength": 50,
+        "oversold": 0.0
+      },
+      "metrics": {
+        "current_price": 28.5,
+        "return_63d": 19.00776526407457,
+        "volatility": 22.659826581945524,
+        "rsi_14": 57.02124974752084,
+        "distance_from_50d_ma": 5.12010356202328,
+        "high_52w": 28.84000015258789,
+        "low_52w": 17.76386070251465
+      }
+    },
+    {
+      "rank": 22,
+      "ticker": "ILMN",
+      "composite_score": 69.33808793675287,
+      "components": {
+        "momentum": 61.60154684050385,
+        "trend": 97.691552626603,
+        "volatility": 60.571577494886554,
+        "volume": 62.13613485982435,
+        "relative_strength": 50,
+        "oversold": 0.0
+      },
+      "metrics": {
+        "current_price": 144.80999755859375,
+        "return_63d": 46.25794812058065,
+        "volatility": 33.17208231875192,
+        "rsi_14": 65.78107143811576,
+        "distance_from_50d_ma": 5.711993501246328,
+        "high_52w": 153.9499969482422,
+        "low_52w": 70.30000305175781
+      }
+    },
+    {
+      "rank": 23,
+      "ticker": "IVR",
+      "composite_score": 69.17962812940732,
+      "components": {
+        "momentum": 61.10866450717665,
+        "trend": 97.40669690894934,
+        "volatility": 64.8038019443944,
+        "volume": 56.89729440758741,
+        "relative_strength": 50,
+        "oversold": 0.0
+      },
+      "metrics": {
+        "current_price": 8.59000015258789,
+        "return_63d": 26.717703949712845,
+        "volatility": 23.095013160172513,
+        "rsi_14": 66.66667244884657,
+        "distance_from_50d_ma": 4.979209583474945,
+        "high_52w": 9.284393310546875,
+        "low_52w": 5.481362819671631
+      }
+    },
+    {
+      "rank": 24,
+      "ticker": "RUSHA",
+      "composite_score": 69.16071392670334,
+      "components": {
+        "momentum": 71.2224739383815,
+        "trend": 91.74988793394476,
+        "volatility": 60.64805628101708,
+        "volume": 51.51259003666186,
+        "relative_strength": 50,
+        "oversold": 0.0
+      },
+      "metrics": {
+        "current_price": 64.19000244140625,
+        "return_63d": 28.254873403847625,
+        "volatility": 28.807866775120246,
+        "rsi_14": 93.22461738789112,
+        "distance_from_50d_ma": 13.112129443424553,
+        "high_52w": 65.18000030517578,
+        "low_52w": 46.5023307800293
+      }
+    },
+    {
+      "rank": 25,
+      "ticker": "AZZ",
+      "composite_score": 69.05418658584423,
+      "components": {
+        "momentum": 66.70724113862191,
+        "trend": 96.18845190494994,
+        "volatility": 60.35537339753266,
+        "volume": 52.82551059009093,
+        "relative_strength": 50,
+        "oversold": 0.0
+      },
+      "metrics": {
+        "current_price": 124.29000091552734,
+        "return_63d": 25.24184158704325,
+        "volatility": 27.93891677421545,
+        "rsi_14": 80.07791844225326,
+        "distance_from_50d_ma": 10.990458166838625,
+        "high_52w": 126.61000061035156,
+        "low_52w": 75.12248229980469
+      }
+    },
+    {
+      "rank": 26,
+      "ticker": "JBSS",
+      "composite_score": 69.03575611404473,
+      "components": {
+        "momentum": 65.73567610975168,
+        "trend": 96.56901049470893,
+        "volatility": 62.90235462682243,
+        "volume": 50.61553154718341,
+        "relative_strength": 50,
+        "oversold": 0.0
+      },
+      "metrics": {
+        "current_price": 80.9000015258789,
+        "return_63d": 19.61127583217665,
+        "volatility": 23.344551517095987,
+        "rsi_14": 70.00788489991638,
+        "distance_from_50d_ma": 11.386981835152534,
+        "high_52w": 80.9000015258789,
+        "low_52w": 56.735679626464844
+      }
+    },
+    {
+      "rank": 27,
+      "ticker": "ORA",
+      "composite_score": 68.98728614052948,
+      "components": {
+        "momentum": 68.45779153243267,
+        "trend": 92.9043023777476,
+        "volatility": 60.78873074578877,
+        "volume": 53.77417958136691,
+        "relative_strength": 50,
+        "oversold": 0.0
+      },
+      "metrics": {
+        "current_price": 124.94000244140625,
+        "return_63d": 18.997456210702225,
+        "volatility": 26.159384468944356,
+        "rsi_14": 23.19108898984649,
+        "distance_from_50d_ma": 8.721570493147082,
+        "high_52w": 128.02000427246094,
+        "low_52w": 62.11402130126953
+      }
+    },
+    {
+      "rank": 28,
+      "ticker": "TEN",
+      "composite_score": 68.91296605354651,
+      "components": {
+        "momentum": 66.93383551488938,
+        "trend": 95.38554390721782,
+        "volatility": 56.540063870890094,
+        "volume": 57.85611098731483,
+        "relative_strength": 50,
+        "oversold": 0.0
+      },
+      "metrics": {
+        "current_price": 27.170000076293945,
+        "return_63d": 13.824881110337358,
+        "volatility": 28.80470630087273,
+        "rsi_14": 52.27584711823924,
+        "distance_from_50d_ma": 11.935994393962853,
+        "high_52w": 27.170000076293945,
+        "low_52w": 13.410866737365723
+      }
+    },
+    {
+      "rank": 29,
+      "ticker": "TCBI",
+      "composite_score": 68.8772115590443,
+      "components": {
+        "momentum": 64.69097837148828,
+        "trend": 99.00423537838043,
+        "volatility": 60.75134342379924,
+        "volume": 50.45727012161908,
+        "relative_strength": 50,
+        "oversold": 0.0
+      },
+      "metrics": {
+        "current_price": 101.16999816894531,
+        "return_63d": 23.167761042977435,
+        "volatility": 27.02941252452458,
+        "rsi_14": 71.89792612945573,
+        "distance_from_50d_ma": 7.395956402762918,
+        "high_52w": 102.27999877929688,
+        "low_52w": 61.2400016784668
+      }
+    },
+    {
+      "rank": 30,
+      "ticker": "ADI",
+      "composite_score": 68.83211879923022,
+      "components": {
+        "momentum": 68.72626049690709,
+        "trend": 92.15704821999738,
+        "volatility": 60.72215823050949,
+        "volume": 53.53697966037903,
+        "relative_strength": 50,
+        "oversold": 0.0
+      },
+      "metrics": {
+        "current_price": 310.8800048828125,
+        "return_63d": 33.95363393484976,
+        "volatility": 30.052816712219677,
+        "rsi_14": 76.29936697767506,
+        "distance_from_50d_ma": 10.998382832735018,
+        "high_52w": 318.70001220703125,
+        "low_52w": 162.6341094970703
+      }
+    }
+  ],
+  "stats": {
+    "regime": "NORMAL",
+    "vol_20d": 15.0,
+    "vol_60d": 15.0,
+    "vol_ratio": 1.0,
+    "timestamp": "2026-02-03T02:05:56.200557",
+    "total_scored": 1040,
+    "total_filtered": 387,
+    "delisted_filtered": 26,
+    "regime_weights": {
+      "momentum": 0.3,
+      "trend": 0.25,
+      "volatility": 0.2,
+      "volume": 0.15,
+      "relative_strength": 0.1,
+      "oversold": 0.0
+    }
+  },
+  "messages": [
+    "\n\u27a1\ufe0f PORTFOLIO RECOMMENDATION - 2026-02-03\n\n\ud83c\udfaf STRATEGY: Top 30 regime-aware selections\n\ud83d\udcc8 REGIME: NORMAL (20d vol: 15.0%, 60d vol: 15.0%)\n\n\ud83d\udd1d TOP 10 SELECTIONS:\n",
+    " 1. JNJ    | $  227.25 | Score: 72.640 | RSI: 62\n    63d return: +20.97% | Vol:  16.6% | Components: Mom=75 Trend=95\n 2. XOM    | $  141.40 | Score: 72.362 | RSI: 63\n    63d return: +24.37% | Vol:  21.9% | Components: Mom=73 Trend=97\n 3. AIR    | $  105.91 | Score: 72.317 | RSI: 93\n    63d return: +25.75% | Vol:  31.5% | Components: Mom=75 Trend=93\n 4. PNC    | $  223.30 | Score: 71.256 | RSI: 58\n    63d return: +23.42% | Vol:  19.6% | Components: Mom=66 Trend=96\n 5. PLXS   | $  199.33 | Score: 70.526 | RSI: 85\n    63d return: +41.29% | Vol:  42.0% | Components: Mom=73 Trend=91\n 6. PKE    | $   24.49 | Score: 70.512 | RSI: 52\n    63d return: +29.72% | Vol:  38.1% | Components: Mom=64 Trend=100\n 7. SB     | $    5.71 | Score: 70.402 | RSI: 48\n    63d return: +23.33% | Vol:  32.7% | Components: Mom=73 Trend=97\n 8. PATK   | $  126.17 | Score: 70.345 | RSI: 93\n    63d return: +25.68% | Vol:  28.4% | Components: Mom=68 Trend=96\n 9. MNST   | $   80.76 | Score: 70.229 | RSI: 14\n    63d return: +21.32% | Vol:  21.3% | Components: Mom=66 Trend=97\n10. UCTT   | $   43.68 | Score: 70.190 | RSI: 79\n    63d return: +62.20% | Vol:  62.6% | Components: Mom=75 Trend=96\n",
+    "\n\ud83d\udcca PORTFOLIO STATS:\n  \u2022 Stocks Analyzed: ~2,413\n  \u2022 Selected (regime-adjusted): 1040\n  \u2022 Filtered out: 387\n  \u2022 Top 30 (sector-neutral): 30\n  \u2022 Regime Weights: Mom=30% Trend=25% Vol=20%\n\n\u23f1\ufe0f REBALANCING:\n  \u2022 Daily rescore: Every 4 PM ET\n  \u2022 Position exits: Drops below 200d SMA, vol spike >2\u00d7, composite <40th percentile\n  \u2022 Allocation: Equal weight (1/30 = 3.3% per stock)\n"
+  ]
+}
